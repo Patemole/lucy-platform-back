@@ -121,9 +121,8 @@ websockets==11.0.3
 Werkzeug==2.0.2
 yarl==1.9.2
 zipp==3.16.0
-pdf2image
-langchain_pinecone
-boto3
-python-multipart
+pdf2image==1.16.3
+langchain_pinecone==0.1.0
+boto3==1.28.0
+python-multipart==0.0.5
 gunicorn==20.1.0
-
