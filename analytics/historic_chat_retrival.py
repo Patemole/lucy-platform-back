@@ -4,6 +4,9 @@ import os
 import boto3
 from datetime import datetime, timedelta
 from botocore.exceptions import ClientError
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Classe DynamoDBClient
 class DynamoDBClient:
@@ -16,9 +19,9 @@ class DynamoDBClient:
                 cls._instance = super(DynamoDBClient, cls).__new__(cls)
                 cls.client = boto3.resource(
                     'dynamodb',
-                    aws_access_key_id='AKIA2UC3A5LOLSDOW6X7',
-                    aws_secret_access_key='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',
-                    region_name='ap-southeast-2'
+                    aws_access_key_id=os.getenv("AWS_ACCESS_KEY_ID"),
+                    aws_secret_access_key=os.getenv("AWS_SECRET_ACCESS_KEY"),
+                    region_name=os.getenv("AWS_REGION")
                 )
                 print("DynamoDBClient initialized successfully")
             except Exception as e:

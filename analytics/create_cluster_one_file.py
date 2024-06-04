@@ -20,6 +20,14 @@ import re
 import webbrowser
 import os
 import datamapplot
+from dotenv import load_dotenv
+
+load_dotenv()
+
+AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
+AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
+AWS_REGION = os.getenv("AWS_REGION")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 # Configure logging to print messages to the console
 logging.basicConfig(level=logging.INFO)
@@ -94,9 +102,9 @@ class DynamoDBClient:
                 cls._instance = super(DynamoDBClient, cls).__new__(cls)
                 cls.client = boto3.resource(
                     'dynamodb',
-                    aws_access_key_id='AKIA2UC3A5LOLSDOW6X7',
-                    aws_secret_access_key='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',
-                    region_name='ap-southeast-2'
+                    aws_access_key_id=AWS_ACCESS_KEY_ID,
+                    aws_secret_access_key=AWS_SECRET_ACCESS_KEY,
+                    region_name=AWS_REGION
                 )
                 print("DynamoDBClient initialized successfully")
             except Exception as e:
@@ -113,10 +121,10 @@ class OpenAIApiClient:
         if not cls._instance:
             cls._instance = super(OpenAIApiClient, cls).__new__(cls)
             cls.text_embeddings = OpenAIEmbeddings(
-                openai_api_key="sk-proj-EbsswciW1QbyS50aDohkT3BlbkFJgawGIcLqmGMMNjCEe00M",
+                openai_api_key=OPENAI_API_KEY,
                 model="text-embedding-ada-002"
             )
-            cls.open_ai_client = OpenAI(api_key="sk-proj-EbsswciW1QbyS50aDohkT3BlbkFJgawGIcLqmGMMNjCEe00M")
+            cls.open_ai_client = OpenAI(api_key=OPENAI_API_KEY)
         return cls._instance
 
 def extract_plot_data(html_string):
