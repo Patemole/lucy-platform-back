@@ -73,7 +73,7 @@ mypy-extensions==1.0.0
 numexpr==2.8.4
 numpy==1.25.1
 onnxruntime==1.15.1
-openai==1.23.6
+openai==1.31.0
 openapi-schema-pydantic==1.2.4
 overrides==7.3.1
 packaging==23.1
