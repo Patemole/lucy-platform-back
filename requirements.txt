@@ -125,3 +125,5 @@ pdf2image
 langchain_pinecone
 boto3
 python-multipart
+gunicorn==20.1.0
+
