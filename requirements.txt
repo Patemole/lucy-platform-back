@@ -73,7 +73,7 @@ numpy==1.25.1
 openai==1.31.0
 openapi-schema-pydantic==1.2.4
 overrides==7.3.1
-packaging==23.1
+packaging==23.2
 pandas==2.0.3
 Pillow==9.5.0
 platformdirs==2.4.0
