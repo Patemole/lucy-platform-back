@@ -1,6 +1,11 @@
 from langchain_openai import OpenAIEmbeddings
 import os
 from openai import OpenAI
+from dotenv import load_dotenv
+
+load_dotenv()
+
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 
 
 #################################
@@ -11,11 +16,10 @@ class OpenAIApiClient:
         if not cls._instance:
             cls._instance = super(OpenAIApiClient, cls).__new__(cls)
             cls.text_embeddings = OpenAIEmbeddings(
-                #openai_api_key="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",
-                openai_api_key ="sk-proj-EbsswciW1QbyS50aDohkT3BlbkFJgawGIcLqmGMMNjCEe00M",
+                openai_api_key = OPENAI_API_KEY,
                 model="text-embedding-ada-002"
             )
-            cls.open_ai_client = OpenAI(api_key="sk-proj-EbsswciW1QbyS50aDohkT3BlbkFJgawGIcLqmGMMNjCEe00M")
+            cls.open_ai_client = OpenAI(api_key=OPENAI_API_KEY)
             
 
         return cls._instance
