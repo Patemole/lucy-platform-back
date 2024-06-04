@@ -1,53 +1,43 @@
-'''
-import multiprocessing
-import server_cluster
-import server_files
-import server_academic_advisor
-
-def run_serveur_cluster():
-    server_cluster.run()
-    
-
-def run_serveur_file():
-    server_files.run()
-
-
-def run_serveur_chat():
-    server_academic_advisor.run()
-
-
-if __name__ == "__main__":
-    p1 = multiprocessing.Process(target=run_serveur_cluster)
-    p2 = multiprocessing.Process(target=run_serveur_file)
-    p3 = multiprocessing.Process(target=run_serveur_chat)
-    
-    p1.start()
-    p2.start()
-    p3.start()
-    
-    p1.join()
-    p2.join()
-    p3.join()
-'''
-
-
+import logging
 from fastapi import FastAPI
 from server_cluster import create_app as create_cluster_app
 from server_files import create_app as create_files_app
 from server_academic_advisor import create_app as create_academic_advisor_app
 
+# Configurer le logging
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+logger.info("Démarrage de l'application")
+
 app = FastAPI()
 
-cluster_app = create_cluster_app()
-files_app = create_files_app()
-chat_app = create_academic_advisor_app()
+try:
+    logger.info("Création de l'application cluster")
+    cluster_app = create_cluster_app()
+    logger.info("Application cluster créée avec succès")
 
-app.mount("/cluster", cluster_app)
-app.mount("/files", files_app)
-app.mount("/chat", chat_app)
+    logger.info("Création de l'application files")
+    files_app = create_files_app()
+    logger.info("Application files créée avec succès")
+
+    logger.info("Création de l'application academic advisor")
+    chat_app = create_academic_advisor_app()
+    logger.info("Application academic advisor créée avec succès")
+
+    logger.info("Montage des applications")
+    app.mount("/cluster", cluster_app)
+    app.mount("/files", files_app)
+    app.mount("/chat", chat_app)
+    logger.info("Applications montées avec succès")
+except Exception as e:
+    logger.exception("Erreur lors de la création ou du montage des applications: %s", e)
+    raise e
 
 if __name__ == "__main__":
     import os
     import uvicorn
+
     port = int(os.environ.get("PORT", 5000))
+    logger.info(f"Démarrage du serveur sur le port {port}")
     uvicorn.run(app, host="0.0.0.0", port=port)
