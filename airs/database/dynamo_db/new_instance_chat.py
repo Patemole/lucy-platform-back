@@ -23,6 +23,9 @@ dynamodb = boto3.resource(
 # Référence à la table
 table = dynamodb.Table('PROD_chat_socratic')
 
+
+
+#Allows to delete all messages (trigger from endpoint when we are reloading the page)
 async def delete_all_items_and_adding_first_message(chat_id: str):
     try:
         # Scan the table to find all items

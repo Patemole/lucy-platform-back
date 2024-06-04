@@ -81,11 +81,6 @@ PINECONE_API_KEY = os.getenv('PINECONE_API_KEY')
 #OpenAI
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
 
-'''
-AWS_ACCESS_KEY_ID = 'AKIA2UC3A5LOLSDOW6X7'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_REGION = 'ap-southeast-2'
-'''
 
 s3_client = boto3.client(
     's3',
@@ -116,7 +111,6 @@ async def create_pinecone_index(request: IndexRequest):
     print(f"Received request to create Pinecone index: {request.pinecone_index_name}")
 
     try:
-        #pc = Pinecone(api_key="5a6353bd-2e4a-436a-b6f4-8a18187884e1")
         pc = Pinecone(api_key=PINECONE_API_KEY)
 
         pc.create_index(
