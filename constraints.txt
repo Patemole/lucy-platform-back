@@ -1,0 +1,2 @@
+# constraints.txt
+packaging>=17.0,<24.0
