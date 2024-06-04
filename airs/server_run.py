@@ -1,8 +1,8 @@
 import logging
 from fastapi import FastAPI
-from server_cluster import create_app as create_cluster_app
-from server_files import create_app as create_files_app
-from server_academic_advisor import create_app as create_academic_advisor_app
+from airs.server_cluster import create_app as create_cluster_app
+from airs.server_files import create_app as create_files_app
+from airs.server_academic_advisor import create_app as create_academic_advisor_app
 
 # Configurer le logging
 logging.basicConfig(level=logging.INFO)
