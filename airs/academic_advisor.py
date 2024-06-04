@@ -1,5 +1,4 @@
 import os
-from dotenv import load_dotenv
 from langchain_groq import ChatGroq
 from langchain.prompts import PromptTemplate
 from langchain_core.output_parsers import StrOutputParser
@@ -8,7 +7,6 @@ import logging
 import langchain_pinecone
 from pinecone import Pinecone, Index
 from langchain_openai import OpenAIEmbeddings
-import os
 from openai import OpenAI
 from langchain.schema import Document
 from langgraph.graph import END, StateGraph
