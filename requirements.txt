@@ -41,7 +41,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.3
 jsonschema==4.18.2
 jsonschema-specifications==2023.6.1
-langchain==0.0.231
+langchain==0.2.1
 langchainplus-sdk==0.0.20
 langchain_openai==0.1.8
 markdown-it-py==3.0.0
