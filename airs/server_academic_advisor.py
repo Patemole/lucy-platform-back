@@ -169,10 +169,10 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-chat_router = APIRouter(prefix='/chat', tags=['chat'])
+#chat_router = APIRouter(prefix='/chat', tags=['chat'])
 
 # TRAITEMENT D'UN MESSAGE ÉLÈVE AVEC LA LOGIQUE LANGRAPH
-@chat_router.post("/send_message_socratic_langgraph")
+@app.post("/send_message_socratic_langgraph")
 async def chat(request: Request, response: Response, input_query: InputQuery) -> StreamingResponse:
     chat_id = input_query.chat_id
     course_id = input_query.course_id  # Get course_id from input_query
@@ -193,12 +193,12 @@ async def chat(request: Request, response: Response, input_query: InputQuery) ->
     # avec le course_id qui correspond au cours que l'élève a demandé.
 
 # RÉCUPÉRATION DE L'HISTORIQUE DE CHAT POUR LANGRAPH
-@chat_router.get("/get_chat_history/{chat_id}")
+@app.get("/get_chat_history/{chat_id}")
 async def get_chat_history_route(chat_id: str):
     return await get_chat_history(chat_id)
 
 # SUPPRIMER L'HISTORIQUE DE CHAT CHAQUE CHARGEMENT DE LA PAGE - TO BE DEPRECIATED
-@chat_router.post("/delete_chat_history/{chat_id}")
+@app.post("/delete_chat_history/{chat_id}")
 async def delete_chat_history_route(chat_id: str):
     try:
         await delete_all_items_and_adding_first_message(chat_id)
@@ -208,7 +208,7 @@ async def delete_chat_history_route(chat_id: str):
         raise HTTPException(status_code=500, detail="Erreur lors de la suppression de l'historique du chat")
 
 # Inclure le routeur de chat
-app.include_router(chat_router)
+#app.include_router(chat_router)
 
 def create_app():
     return app

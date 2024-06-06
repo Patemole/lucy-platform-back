@@ -1,0 +1,182 @@
+2024-06-05 22:57:54 [INFO]: Fetching files for course_id: d20f6c61-498f-43e4-9179-bac6e0b23d5d
+2024-06-05 22:57:54 [INFO]: Files fetched for course_id d20f6c61-498f-43e4-9179-bac6e0b23d5d: [{'name': '__Programming_Languages_and_Techniques_II_syllabus.pdf', 'preview_url': 'https://usyd-bucket.s3.ap-southeast-2.amazonaws.com/courses/d20f6c61-498f-43e4-9179-bac6e0b23d5d/previews/__Programming_Languages_and_Techniques_II_syllabus-preview-image.jpg'}, {'name': "CIS\xa01070__Visual_Culture_through_the_Computer's_Eye_syllabus.pdf", 'preview_url': "https://usyd-bucket.s3.ap-southeast-2.amazonaws.com/courses/d20f6c61-498f-43e4-9179-bac6e0b23d5d/previews/CIS\xa01070__Visual_Culture_through_the_Computer's_Eye_syllabus-preview-image.jpg"}, {'name': '__Computational_Data_Exploration_syllabus.pdf', 'preview_url': 'https://usyd-bucket.s3.ap-southeast-2.amazonaws.com/courses/d20f6c61-498f-43e4-9179-bac6e0b23d5d/previews/__Computational_Data_Exploration_syllabus-preview-image.jpg'}, {'name': 'output_syllabus.pdf', 'preview_url': 'https://usyd-bucket.s3.ap-southeast-2.amazonaws.com/courses/d20f6c61-498f-43e4-9179-bac6e0b23d5d/previews/output_syllabus-preview-image.jpg'}, {'name': 'Certificat de scolarité Audencia_120415_2022-2023. (1).pdf', 'preview_url': 'https://usyd-bucket.s3.ap-southeast-2.amazonaws.com/courses/d20f6c61-498f-43e4-9179-bac6e0b23d5d/previews/Certificat de scolarité Audencia_120415_2022-2023. (1)-preview-image.jpg'}, {'name': "Votre carte d'embarquement pour Sydney  - ETIHAD AIRWAYS-2.pdf", 'preview_url': "https://usyd-bucket.s3.ap-southeast-2.amazonaws.com/courses/d20f6c61-498f-43e4-9179-bac6e0b23d5d/previews/Votre carte d'embarquement pour Sydney  - ETIHAD AIRWAYS-2-preview-image.jpg"}, {'name': 'output_syllabus-3.pdf', 'preview_url': 'https://usyd-bucket.s3.ap-southeast-2.amazonaws.com/courses/d20f6c61-498f-43e4-9179-bac6e0b23d5d/previews/output_syllabus-3-preview-image.jpg'}]
+2024-06-06 11:59:16 [INFO]: Démarrage de l'application
+2024-06-06 11:59:16 [INFO]: Création de l'application cluster
+2024-06-06 11:59:16 [INFO]: Application cluster créée avec succès
+2024-06-06 11:59:16 [INFO]: Création de l'application files
+2024-06-06 11:59:16 [INFO]: Application files créée avec succès
+2024-06-06 11:59:16 [INFO]: Création de l'application academic advisor
+2024-06-06 11:59:16 [INFO]: Application academic advisor créée avec succès
+2024-06-06 11:59:16 [INFO]: Montage des applications
+2024-06-06 11:59:16 [INFO]: Applications montées avec succès
+2024-06-06 11:59:16 [INFO]: Démarrage du serveur sur le port 5000
+2024-06-06 12:03:39 [INFO]: Démarrage de l'application
+2024-06-06 12:03:39 [INFO]: Création de l'application cluster
+2024-06-06 12:03:39 [INFO]: Application cluster créée avec succès
+2024-06-06 12:03:39 [INFO]: Création de l'application files
+2024-06-06 12:03:39 [INFO]: Application files créée avec succès
+2024-06-06 12:03:39 [INFO]: Création de l'application academic advisor
+2024-06-06 12:03:39 [INFO]: Application academic advisor créée avec succès
+2024-06-06 12:03:39 [INFO]: Montage des applications
+2024-06-06 12:03:39 [INFO]: Applications montées avec succès
+2024-06-06 12:03:39 [INFO]: Démarrage du serveur sur le port 5000
+2024-06-06 12:06:33 [INFO]: Démarrage de l'application
+2024-06-06 12:06:33 [INFO]: Création de l'application cluster
+2024-06-06 12:06:33 [INFO]: Application cluster créée avec succès
+2024-06-06 12:06:33 [INFO]: Création de l'application files
+2024-06-06 12:06:33 [INFO]: Application files créée avec succès
+2024-06-06 12:06:33 [INFO]: Création de l'application academic advisor
+2024-06-06 12:06:33 [INFO]: Application academic advisor créée avec succès
+2024-06-06 12:06:33 [INFO]: Montage des applications
+2024-06-06 12:06:33 [INFO]: Applications montées avec succès
+2024-06-06 12:06:33 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-06 12:15:12 [INFO]: Request: OPTIONS http://localhost:5001/cluster/get_graph
+2024-06-06 12:15:12 [INFO]: Response: 200
+2024-06-06 12:15:12 [INFO]: Request: GET http://localhost:5001/cluster/get_graph
+2024-06-06 12:15:12 [INFO]: Response: 200
+2024-06-06 12:29:14 [INFO]: Request: OPTIONS http://localhost:5001/cluster/get_graph
+2024-06-06 12:29:14 [INFO]: Request: OPTIONS http://localhost:5001/cluster/get_graph
+2024-06-06 12:29:14 [INFO]: Response: 200
+2024-06-06 12:29:14 [INFO]: Response: 200
+2024-06-06 12:34:02 [INFO]: Démarrage de l'application
+2024-06-06 12:34:02 [INFO]: Création de l'application cluster
+2024-06-06 12:34:02 [INFO]: Application cluster créée avec succès
+2024-06-06 12:34:02 [INFO]: Création de l'application files
+2024-06-06 12:34:02 [INFO]: Application files créée avec succès
+2024-06-06 12:34:02 [INFO]: Création de l'application academic advisor
+2024-06-06 12:34:02 [INFO]: Application academic advisor créée avec succès
+2024-06-06 12:34:02 [INFO]: Montage des applications
+2024-06-06 12:34:02 [INFO]: Applications montées avec succès
+2024-06-06 12:34:02 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-06 12:34:14 [INFO]: Démarrage de l'application
+2024-06-06 12:34:14 [INFO]: Création de l'application cluster
+2024-06-06 12:34:14 [INFO]: Application cluster créée avec succès
+2024-06-06 12:34:14 [INFO]: Création de l'application files
+2024-06-06 12:34:14 [INFO]: Application files créée avec succès
+2024-06-06 12:34:14 [INFO]: Création de l'application academic advisor
+2024-06-06 12:34:14 [INFO]: Application academic advisor créée avec succès
+2024-06-06 12:34:14 [INFO]: Montage des applications
+2024-06-06 12:34:14 [INFO]: Applications montées avec succès
+2024-06-06 12:34:14 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-06 12:34:47 [INFO]: Démarrage de l'application
+2024-06-06 12:34:47 [INFO]: Création de l'application cluster
+2024-06-06 12:34:47 [INFO]: Application cluster créée avec succès
+2024-06-06 12:34:47 [INFO]: Création de l'application files
+2024-06-06 12:34:47 [INFO]: Application files créée avec succès
+2024-06-06 12:34:47 [INFO]: Création de l'application academic advisor
+2024-06-06 12:34:47 [INFO]: Application academic advisor créée avec succès
+2024-06-06 12:34:47 [INFO]: Montage des applications
+2024-06-06 12:34:47 [INFO]: Applications montées avec succès
+2024-06-06 12:34:47 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-06 18:52:07 [INFO]: Démarrage de l'application
+2024-06-06 18:52:07 [INFO]: Création de l'application files
+2024-06-06 18:52:07 [INFO]: Application files créée avec succès
+2024-06-06 18:52:07 [INFO]: Création de l'application academic advisor
+2024-06-06 18:52:07 [INFO]: Application academic advisor créée avec succès
+2024-06-06 18:52:07 [INFO]: Montage des applications
+2024-06-06 18:52:07 [INFO]: Applications montées avec succès
+2024-06-06 18:52:07 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-06 18:53:08 [INFO]: Request: GET http://localhost:5001/static/cluster_plot.html
+2024-06-06 18:53:08 [INFO]: Response: 200
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/schema@4.1.0-alpha.10/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/worker-utils/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/apache-arrow@13.0.0/+esm
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@math.gl/polygon@4.0.0/+esm
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/gis@4.1.0-alpha.10/+esm
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/wkt@4.1.0-alpha.10/+esm
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/arrow@4.1.0-alpha.10/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/gis@4.0.5/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/loader-utils@4.0.5/+esm
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/schema@4.0.5/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/tslib@2.6.2/+esm
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/flatbuffers@23.5.26/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@babel/runtime/helpers/esm/defineProperty/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@math.gl/core@4.0.0/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/gis/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@babel/runtime@7.23.8/helpers/esm/defineProperty/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/worker-utils@4.0.5/+esm
+2024-06-06 18:53:09 [INFO]: Request: GET http://localhost:5001/npm/@probe.gl/stats@4.0.4/+esm
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:09 [INFO]: Response: 404
+2024-06-06 18:53:10 [INFO]: Request: GET http://localhost:5001/npm/@loaders.gl/schema@4.2.2/+esm
+2024-06-06 18:53:10 [INFO]: Request: GET http://localhost:5001/npm/@math.gl/polygon@4.0.1/+esm
+2024-06-06 18:53:10 [INFO]: Response: 404
+2024-06-06 18:53:10 [INFO]: Response: 404
+2024-06-06 18:53:10 [INFO]: Request: GET http://localhost:5001/npm/@math.gl/core@4.0.1/+esm
+2024-06-06 18:53:10 [INFO]: Response: 404
+2024-06-06 18:53:11 [INFO]: Request: GET http://localhost:5001/apple-touch-icon-precomposed.png
+2024-06-06 18:53:11 [INFO]: Response: 404
+2024-06-06 18:53:11 [INFO]: Request: GET http://localhost:5001/apple-touch-icon.png
+2024-06-06 18:53:11 [INFO]: Response: 404
+2024-06-06 18:53:12 [INFO]: Request: GET http://localhost:5001/favicon.ico
+2024-06-06 18:53:12 [INFO]: Response: 404
+2024-06-06 19:12:11 [INFO]: Request: GET http://localhost:5001/static/cluster_plot.html
+2024-06-06 19:12:11 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-06 19:12:11 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-06 19:12:11 [INFO]: Response: 200
+2024-06-06 19:12:11 [INFO]: Response: 200
+2024-06-06 19:12:11 [INFO]: Response: 200
+2024-06-06 19:12:11 [INFO]: Request: GET http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-06 19:12:11 [INFO]: Fetching files for course_id: dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-06 19:12:11 [INFO]: Files fetched for course_id dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd: [{'name': 'Syllabus Intro to Economics.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd/previews/Syllabus Intro to Economics-preview-image.jpg'}]
+2024-06-06 19:12:11 [INFO]: Response: 200
+2024-06-06 19:12:11 [INFO]: Request: GET http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-06 19:12:11 [INFO]: Fetching files for course_id: dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-06 19:12:11 [INFO]: Files fetched for course_id dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd: [{'name': 'Syllabus Intro to Economics.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd/previews/Syllabus Intro to Economics-preview-image.jpg'}]
+2024-06-06 19:12:11 [INFO]: Response: 200
+2024-06-06 20:02:49 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-06 20:02:49 [INFO]: Response: 200
+2024-06-06 20:02:49 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-06 20:02:50 [INFO]: Response: 200
+2024-06-06 20:02:50 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 20:02:51 [INFO]: Initialisation de l'instance PineconeApiClient...
+2024-06-06 20:02:52 [ERROR]: Erreur lors de l'initialisation de PineconeApiClient: 'OpenAIApiClient' object has no attribute 'text_embeddings'
+2024-06-06 20:06:50 [INFO]: Démarrage de l'application
+2024-06-06 20:06:50 [INFO]: Création de l'application files
+2024-06-06 20:06:50 [INFO]: Application files créée avec succès
+2024-06-06 20:06:50 [INFO]: Création de l'application academic advisor
+2024-06-06 20:06:50 [INFO]: Application academic advisor créée avec succès
+2024-06-06 20:06:50 [INFO]: Montage des applications
+2024-06-06 20:06:50 [INFO]: Applications montées avec succès
+2024-06-06 20:06:50 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-06 20:07:04 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-06 20:07:04 [INFO]: Response: 200
+2024-06-06 20:07:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 20:08:01 [INFO]: Démarrage de l'application
+2024-06-06 20:08:01 [INFO]: Création de l'application files
+2024-06-06 20:08:01 [INFO]: Application files créée avec succès
+2024-06-06 20:08:01 [INFO]: Création de l'application academic advisor
+2024-06-06 20:08:01 [INFO]: Application academic advisor créée avec succès
+2024-06-06 20:08:01 [INFO]: Montage des applications
+2024-06-06 20:08:01 [INFO]: Applications montées avec succès
+2024-06-06 20:08:01 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-06 20:08:15 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-06 20:08:15 [INFO]: Response: 200
+2024-06-06 20:08:16 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-06 20:09:04 [INFO]: Démarrage de l'application
+2024-06-06 20:09:04 [INFO]: Création de l'application files
+2024-06-06 20:09:04 [INFO]: Application files créée avec succès
+2024-06-06 20:09:04 [INFO]: Création de l'application academic advisor
+2024-06-06 20:09:04 [INFO]: Application academic advisor créée avec succès
+2024-06-06 20:09:04 [INFO]: Montage des applications
+2024-06-06 20:09:04 [INFO]: Applications montées avec succès
+2024-06-06 20:09:04 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-06 20:09:19 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-06 20:09:19 [INFO]: Response: 200
+2024-06-06 20:09:20 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"

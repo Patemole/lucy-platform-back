@@ -552,7 +552,7 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-file_router = APIRouter(prefix='/file', tags=['file'])
+#file_router = APIRouter(prefix='/files', tags=['file'])
 
 ##################################AWS CONFIGURATION############################################
 load_dotenv()
@@ -585,7 +585,7 @@ dynamodb = boto3.resource(
 
 ##################################API ROUTES############################################
 # 1
-@file_router.post("/api/create-pinecone-index")
+@app.post("/api/create-pinecone-index")
 async def create_pinecone_index(request: IndexRequest):
     logging.info("Received request to create Pinecone index: %s", request.pinecone_index_name)
     print(f"Received request to create Pinecone index: {request.pinecone_index_name}")
@@ -614,7 +614,7 @@ async def create_pinecone_index(request: IndexRequest):
 
 
 # 2
-@file_router.post("/upload_file_from_teacher_dashboard")
+@app.post("/upload_file_from_teacher_dashboard")
 async def upload_file(
     file: UploadFile = File(...),
     uid: str = Form(...),
@@ -638,7 +638,7 @@ async def upload_file(
 
 
 # 3
-@file_router.get("/fetching/{course_id}")
+@app.get("/fetching/{course_id}")
 async def fetch_files(course_id: str):
     print(f"Fetching files for course_id: {course_id}")
     logging.info(f"Fetching files for course_id: {course_id}")
@@ -945,7 +945,7 @@ async def embeddings_treatment(uploaded_file: UploadFile, uid: str, course_id: s
 
     return s3_url, preview_url
 
-app.include_router(file_router)
+#app.include_router(file_router)
 
 def create_app():
     return app

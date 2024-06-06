@@ -54,6 +54,7 @@ logging.basicConfig(level=logging.INFO)
 ############################################################
 #INITIALISATION DE L'API PINECONE AVEC L'INDEX ACADEMIC-ADVISOR-UPENN-TEST1
 ############################################################
+
 class PineconeApiClient:
     _instance = None
 
@@ -62,7 +63,6 @@ class PineconeApiClient:
             logging.info("Initialisation de l'instance PineconeApiClient...")
             cls.instance = super(PineconeApiClient, cls).new_(cls)
             try:
-                #pinecone = Pinecone(api_key=os.getenv('PINECONE_API_KEY'))
                 print(PINECONE_API_KEY)
                 pinecone = Pinecone(api_key=PINECONE_API_KEY)
                 cls.index = pinecone.Index("academic-advisor-upenn-test1", pool_threads=PINECONE_POOL_THREADS)
@@ -73,15 +73,15 @@ class PineconeApiClient:
                 logging.error(f"Erreur lors de l'initialisation de PineconeApiClient: {e}")
                 raise e
         return cls._instance
-
+    
 
 ############################################################
 #INITIALISATION DE L'API OPENAI
 ############################################################
+
 class OpenAIApiClient:
     _instance = None
 
- 
     def _new_(cls, *args, **kwargs):
         if not cls._instance:
             cls.instance = super(OpenAIApiClient, cls).new_(cls)
@@ -93,9 +93,6 @@ class OpenAIApiClient:
             
 
         return cls._instance
-
-
-
 
 ############################################################
 # GRAPH'S LOGIC
@@ -150,6 +147,7 @@ rag_keywords_chain = rag_keywords_prompt | GROQ_LLM | JsonOutputParser()
 def invoke_chain_rag_keywords(data):
     return rag_keywords_chain.invoke(data)
 
+'''
 def query_pinecone(user_input, class_id, keywords):
     # Generate the enhanced query using user input and keywords
     query = generate_enhanced_query(user_input, keywords)
@@ -160,7 +158,7 @@ def query_pinecone(user_input, class_id, keywords):
     #query_embedding = client.text_embeddings.embed_query(query)
     
     # Define the Pinecone client
-    index = PineconeApiClient().index
+    #index = PineconeApiClient().index
     
     #TODO make sure about the format of the class name without spaces and upper letters
 
@@ -169,6 +167,21 @@ def query_pinecone(user_input, class_id, keywords):
 
     # Parse the retrieved documents
     retrieved_docs : List[Document] = PineconeApiClient().vectorstore.similarity_search(query=query, k=3, filter=filter)
+    
+    return retrieved_docs
+'''
+
+
+def query_pinecone(user_input, class_id, keywords):
+    # Génère la requête améliorée en utilisant l'entrée utilisateur et les mots-clés
+    query = generate_enhanced_query(user_input, keywords)
+
+    # Définir le filtre de métadonnées
+    filter = {"class_id": class_id}
+
+    # Récupérer les documents
+    retrieved_docs : List[Document] = PineconeApiClient().vectorstore.similarity_search(query=query, k=3, filter=filter)
+    #retrieved_docs = PineconeApiClient().vectorstore.similarity_search(query=query, k=3, filter=filter)
     
     return retrieved_docs
 
@@ -292,6 +305,8 @@ def rag_keywords_search(state):
 
     return {"class_names": class_names, "rag_keywords": keywords}
 
+
+'''
 async def draft_answer_generation(state):
     """
     Using RAG to get the info.
@@ -312,7 +327,43 @@ async def draft_answer_generation(state):
     
     return {"draft_answer": draft_answer, "rag_info": rag_info}
     #return {"draft_answer": draft_answer}
+'''
 
+async def draft_answer_generation(state):
+    """
+    Utilisation de RAG pour obtenir les informations.
+    """
+
+    user_input = state["user_input"]
+    memory = state["memory"]
+
+    # Debug: Print l'état actuel
+    print("Entrée dans draft_answer_generation")
+    print(f"user_input: {user_input}")
+    print(f"memory: {memory}")
+
+    # Vérifiez si class_names n'est pas vide avant d'accéder
+    if state["class_names"]:
+        class_id = state["class_names"][0]  # Utilisez le premier nom de classe si disponible
+    else:
+        # Gérez le cas où aucun nom de classe n'est disponible
+        class_id = None  # Ou gérer de manière appropriée
+    
+    keywords = state["rag_keywords"]
+
+    # Interrogez Pinecone avec le filtre de métadonnées et la requête améliorée
+    rag_info = query_pinecone(user_input, class_id, keywords)
+
+    # Invoquez la chaîne avec les informations récupérées de Pinecone
+    draft_answer = await invoke_chain_draft_answer({
+        "user_input": user_input,
+        "rag_keywords": keywords,
+        "rag_info": rag_info,
+        "class_names": class_id,
+        "memory": memory
+    })
+    
+    return {"draft_answer": draft_answer, "rag_info": rag_info}
 
 # ## Build the Graph
 
