@@ -40,13 +40,30 @@ async def log_request(request, call_next):
     return response
 
 
+# Chemins relatifs
+static_dir = os.path.join(os.path.dirname(__file__), "../analytics/analytics_teacher")
+static_dir_academic_advisor = os.path.join(os.path.dirname(__file__), "../analytics/analytics_academic")
+
+# Assurez-vous que les répertoires existent
+if not os.path.exists(static_dir):
+    os.makedirs(static_dir)
+
+if not os.path.exists(static_dir_academic_advisor):
+    os.makedirs(static_dir_academic_advisor)
+
+# Monter les répertoires statiques
+app.mount("/static/teacher", StaticFiles(directory=static_dir), name="static_teacher")
+app.mount("/static/academic_advisor", StaticFiles(directory=static_dir_academic_advisor), name="static_academic_advisor")
+
+
+'''
 # Configurer le serveur pour servir les fichiers statiques - un pour l'academic advisor, l'autre pour le teacher
 static_dir = "/Users/gregoryhissiger/Lucy-platform-v1/back_socratic/analytics/generated_html" #Le graphe d'origine pour les professeurs
 static_dir_academic_advisor = "/Users/gregoryhissiger/pinecone_client_test" #Le graphe d'origine pour les professeurs
 
 app.mount("/static/teacher", StaticFiles(directory=static_dir), name="static_teacher")
 app.mount("/static/academic_advisor", StaticFiles(directory=static_dir_academic_advisor), name="static_academic_advisor")
-
+'''
 try:
     print("Création de l'application files")
     logger.info("Création de l'application files")
