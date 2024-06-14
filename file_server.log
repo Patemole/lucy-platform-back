@@ -1,0 +1,1822 @@
+2024-06-09 11:05:21 [INFO]: Démarrage de l'application
+2024-06-09 11:05:21 [INFO]: Création de l'application files
+2024-06-09 11:05:21 [INFO]: Application files créée avec succès
+2024-06-09 11:05:21 [INFO]: Création de l'application academic advisor
+2024-06-09 11:05:21 [INFO]: Application academic advisor créée avec succès
+2024-06-09 11:05:21 [INFO]: Montage des applications
+2024-06-09 11:05:21 [INFO]: Applications montées avec succès
+2024-06-09 11:05:21 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-09 11:05:41 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 11:05:41 [INFO]: Response: 200
+2024-06-09 11:05:41 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 11:05:41 [INFO]: Response: 200
+2024-06-09 11:05:44 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 11:05:46 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 11:10:55 [INFO]: Démarrage de l'application
+2024-06-09 11:10:55 [INFO]: Création de l'application files
+2024-06-09 11:10:55 [INFO]: Application files créée avec succès
+2024-06-09 11:10:55 [INFO]: Création de l'application academic advisor
+2024-06-09 11:10:55 [INFO]: Application academic advisor créée avec succès
+2024-06-09 11:10:55 [INFO]: Montage des applications
+2024-06-09 11:10:55 [INFO]: Applications montées avec succès
+2024-06-09 11:10:55 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-09 11:12:37 [INFO]: Démarrage de l'application
+2024-06-09 11:12:37 [INFO]: Création de l'application files
+2024-06-09 11:12:37 [INFO]: Application files créée avec succès
+2024-06-09 11:12:37 [INFO]: Création de l'application academic advisor
+2024-06-09 11:12:37 [INFO]: Application academic advisor créée avec succès
+2024-06-09 11:12:37 [INFO]: Montage des applications
+2024-06-09 11:12:37 [INFO]: Applications montées avec succès
+2024-06-09 11:12:38 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-09 11:13:13 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 11:13:16 [INFO]: Response: 200
+2024-06-09 11:13:19 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 11:13:21 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 11:13:29 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 11:28:55 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 11:28:56 [INFO]: Response: 200
+2024-06-09 11:28:56 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 11:28:59 [INFO]: Response: 200
+2024-06-09 11:29:02 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 11:29:03 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 11:29:11 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 11:42:41 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 11:42:41 [INFO]: Response: 200
+2024-06-09 11:42:41 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 11:42:44 [INFO]: Response: 200
+2024-06-09 11:42:47 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 11:42:49 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 11:42:57 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 11:44:14 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 11:44:18 [INFO]: Response: 200
+2024-06-09 11:44:21 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 11:44:23 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 11:44:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:21:59 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:21:59 [INFO]: Response: 200
+2024-06-09 22:21:59 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:22:00 [INFO]: Response: 200
+2024-06-09 22:22:01 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:22:01 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 22:22:03 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:23:43 [INFO]: Démarrage de l'application
+2024-06-09 22:23:43 [INFO]: Création de l'application files
+2024-06-09 22:23:43 [INFO]: Application files créée avec succès
+2024-06-09 22:23:43 [INFO]: Création de l'application academic advisor
+2024-06-09 22:23:43 [INFO]: Application academic advisor créée avec succès
+2024-06-09 22:23:43 [INFO]: Montage des applications
+2024-06-09 22:23:43 [INFO]: Applications montées avec succès
+2024-06-09 22:23:43 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-09 22:24:49 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:24:50 [INFO]: Response: 200
+2024-06-09 22:24:50 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:24:52 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 22:24:53 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:38:46 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:38:46 [INFO]: Response: 200
+2024-06-09 22:38:46 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:38:46 [INFO]: Response: 200
+2024-06-09 22:38:46 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:38:47 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 22:38:49 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:50:28 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:50:28 [INFO]: Response: 200
+2024-06-09 22:50:28 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:50:28 [INFO]: Response: 200
+2024-06-09 22:50:29 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:50:29 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 22:50:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:55:40 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:55:40 [INFO]: Response: 200
+2024-06-09 22:55:40 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:55:41 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 22:55:43 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:57:11 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:57:12 [INFO]: Response: 200
+2024-06-09 22:57:12 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:57:12 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 22:57:14 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:58:26 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:58:26 [INFO]: Response: 200
+2024-06-09 22:58:27 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:58:27 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 22:58:29 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:59:37 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 22:59:37 [INFO]: Response: 200
+2024-06-09 22:59:37 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 22:59:38 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 22:59:39 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 23:02:56 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 23:02:56 [INFO]: Response: 200
+2024-06-09 23:02:56 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 23:02:56 [INFO]: Response: 200
+2024-06-09 23:02:57 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 23:02:58 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 23:02:59 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 23:07:23 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 23:07:24 [INFO]: Response: 200
+2024-06-09 23:07:24 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 23:07:25 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 23:07:26 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 23:16:08 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 23:16:08 [INFO]: Response: 200
+2024-06-09 23:16:08 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 23:16:08 [INFO]: Response: 200
+2024-06-09 23:16:08 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 23:16:09 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 23:16:11 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 23:17:07 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-09 23:17:08 [INFO]: Response: 200
+2024-06-09 23:17:08 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-09 23:17:09 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-09 23:17:10 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 10:53:37 [INFO]: Démarrage de l'application
+2024-06-10 10:53:37 [INFO]: Création de l'application files
+2024-06-10 10:53:37 [INFO]: Application files créée avec succès
+2024-06-10 10:53:37 [INFO]: Création de l'application academic advisor
+2024-06-10 10:53:37 [INFO]: Application academic advisor créée avec succès
+2024-06-10 10:53:37 [INFO]: Montage des applications
+2024-06-10 10:53:37 [INFO]: Applications montées avec succès
+2024-06-10 10:53:37 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-10 11:06:17 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:06:17 [INFO]: Response: 200
+2024-06-10 11:06:17 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:06:17 [INFO]: Response: 200
+2024-06-10 11:06:17 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:06:19 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:06:21 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:11:55 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:11:55 [INFO]: Response: 200
+2024-06-10 11:11:55 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:11:56 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:11:57 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:12:36 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:12:36 [INFO]: Response: 200
+2024-06-10 11:12:36 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:12:37 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:12:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:26:01 [INFO]: Démarrage de l'application
+2024-06-10 11:26:01 [INFO]: Création de l'application files
+2024-06-10 11:26:01 [INFO]: Application files créée avec succès
+2024-06-10 11:26:01 [INFO]: Création de l'application academic advisor
+2024-06-10 11:26:01 [INFO]: Application academic advisor créée avec succès
+2024-06-10 11:26:01 [INFO]: Montage des applications
+2024-06-10 11:26:01 [INFO]: Applications montées avec succès
+2024-06-10 11:26:01 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-10 11:28:52 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:28:52 [INFO]: Response: 200
+2024-06-10 11:28:52 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:28:53 [INFO]: Response: 200
+2024-06-10 11:28:53 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:28:55 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:28:57 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:29:47 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:29:47 [INFO]: Response: 200
+2024-06-10 11:29:48 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:29:48 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:29:49 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:30:49 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:30:49 [INFO]: Response: 200
+2024-06-10 11:30:49 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:30:50 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:30:52 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:31:04 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:31:04 [INFO]: Response: 200
+2024-06-10 11:31:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:31:06 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:31:06 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:31:18 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:31:18 [INFO]: Response: 200
+2024-06-10 11:31:18 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:31:19 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:31:19 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:31:26 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:31:26 [INFO]: Response: 200
+2024-06-10 11:31:26 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:31:27 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:31:28 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:32:24 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:32:24 [INFO]: Response: 200
+2024-06-10 11:32:24 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:32:25 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:32:25 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:32:46 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 11:32:46 [INFO]: Response: 200
+2024-06-10 11:32:47 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 11:32:47 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 11:32:48 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 12:56:33 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 12:56:33 [INFO]: Response: 200
+2024-06-10 12:56:33 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 12:56:33 [INFO]: Response: 200
+2024-06-10 12:56:34 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 12:56:34 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 12:56:36 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 12:56:36 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_message
+2024-06-10 12:56:36 [INFO]: Response: 200
+2024-06-10 12:56:36 [INFO]: Request: POST http://localhost:5001/chat/save_message
+2024-06-10 12:56:36 [INFO]: Response: 404
+2024-06-10 12:57:29 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 12:57:30 [INFO]: Response: 200
+2024-06-10 12:57:30 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 12:57:31 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 12:57:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 12:57:32 [INFO]: Request: POST http://localhost:5001/chat/save_message
+2024-06-10 12:57:32 [INFO]: Response: 404
+2024-06-10 14:53:41 [INFO]: Démarrage de l'application
+2024-06-10 14:53:41 [INFO]: Création de l'application files
+2024-06-10 14:53:41 [INFO]: Application files créée avec succès
+2024-06-10 14:53:41 [INFO]: Création de l'application academic advisor
+2024-06-10 14:53:41 [INFO]: Application academic advisor créée avec succès
+2024-06-10 14:53:41 [INFO]: Montage des applications
+2024-06-10 14:53:41 [INFO]: Applications montées avec succès
+2024-06-10 14:53:41 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-10 14:55:15 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 14:55:15 [INFO]: Response: 200
+2024-06-10 14:55:15 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 14:55:15 [INFO]: Response: 200
+2024-06-10 14:55:16 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 14:55:18 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 14:55:20 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 14:55:20 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 14:55:20 [INFO]: Response: 200
+2024-06-10 14:55:20 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 14:55:20 [INFO]: Response: 200
+2024-06-10 15:39:23 [INFO]: Request: GET http://localhost:5001/static/cluster_plot.html
+2024-06-10 15:39:23 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-10 15:39:23 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-10 15:39:23 [INFO]: Response: 200
+2024-06-10 15:39:23 [INFO]: Response: 200
+2024-06-10 15:39:23 [INFO]: Request: GET http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-10 15:39:23 [INFO]: Fetching files for course_id: dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-10 15:39:23 [INFO]: Files fetched for course_id dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd: [{'name': 'Syllabus Intro to Economics.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd/previews/Syllabus Intro to Economics-preview-image.jpg'}]
+2024-06-10 15:39:23 [INFO]: Response: 200
+2024-06-10 15:39:23 [INFO]: Response: 304
+2024-06-10 15:39:23 [INFO]: Request: GET http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-10 15:39:23 [INFO]: Fetching files for course_id: dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-10 15:39:23 [INFO]: Files fetched for course_id dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd: [{'name': 'Syllabus Intro to Economics.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd/previews/Syllabus Intro to Economics-preview-image.jpg'}]
+2024-06-10 15:39:23 [INFO]: Response: 200
+2024-06-10 16:00:55 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 16:00:55 [INFO]: Response: 200
+2024-06-10 16:00:55 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 16:00:55 [INFO]: Response: 200
+2024-06-10 16:00:56 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 16:00:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 16:00:58 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 16:00:59 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 16:00:59 [INFO]: Response: 200
+2024-06-10 16:00:59 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 16:00:59 [INFO]: Response: 200
+2024-06-10 17:43:36 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 17:43:36 [INFO]: Response: 200
+2024-06-10 17:43:36 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 17:43:36 [INFO]: Response: 200
+2024-06-10 17:43:36 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 17:43:37 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 17:43:39 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 17:43:40 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 17:43:40 [INFO]: Response: 200
+2024-06-10 17:43:40 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 17:43:40 [INFO]: Response: 200
+2024-06-10 18:22:36 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 18:22:36 [INFO]: Response: 200
+2024-06-10 18:22:36 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 18:22:36 [INFO]: Response: 200
+2024-06-10 18:22:36 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 18:22:38 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 18:22:39 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 18:22:40 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 18:22:40 [INFO]: Response: 200
+2024-06-10 18:22:40 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 18:22:40 [INFO]: Response: 200
+2024-06-10 20:20:32 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:20:32 [INFO]: Response: 200
+2024-06-10 20:20:32 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:20:32 [INFO]: Response: 200
+2024-06-10 20:20:32 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:20:35 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 20:20:37 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:20:41 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 20:20:41 [INFO]: Response: 200
+2024-06-10 20:20:41 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 20:20:41 [INFO]: Response: 200
+2024-06-10 20:33:56 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:33:56 [INFO]: Response: 200
+2024-06-10 20:33:56 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:33:56 [INFO]: Response: 200
+2024-06-10 20:33:57 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:33:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 20:33:59 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:34:00 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 20:34:00 [INFO]: Response: 200
+2024-06-10 20:34:00 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 20:34:00 [INFO]: Response: 200
+2024-06-10 20:46:21 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:46:21 [INFO]: Response: 200
+2024-06-10 20:46:21 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:46:21 [INFO]: Response: 200
+2024-06-10 20:46:21 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:46:22 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 20:46:24 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:46:24 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 20:46:24 [INFO]: Response: 200
+2024-06-10 20:46:24 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 20:46:25 [INFO]: Response: 200
+2024-06-10 20:53:25 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:53:25 [INFO]: Response: 200
+2024-06-10 20:53:26 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:53:27 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 20:53:28 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:53:29 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 20:53:29 [INFO]: Response: 200
+2024-06-10 20:54:43 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:54:44 [INFO]: Response: 200
+2024-06-10 20:54:44 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:54:45 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 20:54:47 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:54:48 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 20:54:48 [INFO]: Response: 200
+2024-06-10 20:57:48 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:57:48 [INFO]: Response: 200
+2024-06-10 20:57:48 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 20:57:49 [INFO]: Response: 200
+2024-06-10 20:57:49 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:57:50 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 20:57:52 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 20:57:53 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 20:57:53 [INFO]: Response: 200
+2024-06-10 20:57:53 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 20:57:53 [INFO]: Response: 200
+2024-06-10 22:02:42 [INFO]: Request: OPTIONS http://localhost:5001/files/create-pinecone-index
+2024-06-10 22:02:42 [INFO]: Response: 200
+2024-06-10 22:02:42 [INFO]: Request: POST http://localhost:5001/files/create-pinecone-index
+2024-06-10 22:02:43 [INFO]: Received request to create Pinecone index: cis-1010-introduction-to-economics-z9qt9f
+2024-06-10 22:02:44 [ERROR]: Failed to create Pinecone index: (403)
+Reason: Forbidden
+HTTP response headers: HTTPHeaderDict({'content-type': 'text/plain; charset=utf-8', 'x-pinecone-api-version': '2024-04', 'access-control-allow-origin': '*', 'vary': 'origin,access-control-request-method,access-control-request-headers', 'access-control-expose-headers': '*', 'X-Cloud-Trace-Context': 'be428a0e30914b4c5a140d74f14820e1', 'Date': 'Mon, 10 Jun 2024 12:02:44 GMT', 'Server': 'Google Frontend', 'Content-Length': '198', 'Via': '1.1 google', 'Alt-Svc': 'h3=":443"; ma=2592000,h3-29=":443"; ma=2592000'})
+HTTP response body: {"error":{"code":"FORBIDDEN","message":"Request failed. You've reached the max serverless indexes allowed in project AI agents (5). To add more serverless indexes, upgrade your plan."},"status":403}
+
+2024-06-10 22:02:44 [INFO]: Response: 500
+2024-06-10 22:14:25 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 22:14:25 [INFO]: Response: 200
+2024-06-10 22:14:25 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 22:14:25 [INFO]: Response: 200
+2024-06-10 22:14:25 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 22:14:28 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 22:14:30 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 22:14:32 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 22:14:32 [INFO]: Response: 200
+2024-06-10 22:14:32 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 22:14:32 [INFO]: Response: 200
+2024-06-10 22:30:03 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 22:30:03 [INFO]: Response: 200
+2024-06-10 22:30:03 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 22:30:03 [INFO]: Response: 200
+2024-06-10 22:30:03 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 22:30:04 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 22:30:06 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 22:30:07 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 22:30:07 [INFO]: Response: 200
+2024-06-10 22:30:07 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 22:30:07 [INFO]: Response: 200
+2024-06-10 23:21:11 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 23:21:11 [INFO]: Response: 200
+2024-06-10 23:21:11 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 23:21:11 [INFO]: Response: 200
+2024-06-10 23:21:12 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 23:21:12 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 23:21:14 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 23:21:15 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 23:21:15 [INFO]: Response: 200
+2024-06-10 23:21:15 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 23:21:15 [INFO]: Response: 200
+2024-06-10 23:39:03 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 23:39:03 [INFO]: Response: 200
+2024-06-10 23:39:03 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 23:39:03 [INFO]: Response: 200
+2024-06-10 23:39:03 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 23:39:06 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 23:39:59 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 23:39:59 [INFO]: Response: 200
+2024-06-10 23:39:59 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 23:40:00 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 23:40:01 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 23:40:03 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-10 23:40:03 [INFO]: Response: 200
+2024-06-10 23:40:03 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 23:40:03 [INFO]: Response: 200
+2024-06-10 23:40:41 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-10 23:40:41 [INFO]: Response: 200
+2024-06-10 23:40:41 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 23:40:46 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-10 23:40:46 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-10 23:40:50 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-10 23:40:50 [INFO]: Response: 200
+2024-06-11 09:42:55 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 09:42:55 [INFO]: Response: 200
+2024-06-11 09:42:55 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 09:42:55 [INFO]: Response: 200
+2024-06-11 09:42:56 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:42:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 09:42:59 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:42:59 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-11 09:42:59 [INFO]: Response: 200
+2024-06-11 09:42:59 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 09:42:59 [INFO]: Response: 200
+2024-06-11 09:43:10 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 09:43:10 [INFO]: Response: 200
+2024-06-11 09:43:11 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:43:12 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 09:43:12 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:43:13 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 09:43:13 [INFO]: Response: 200
+2024-06-11 09:43:21 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 09:43:21 [INFO]: Response: 200
+2024-06-11 09:43:21 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:43:21 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 09:43:22 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:43:22 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 09:43:22 [INFO]: Response: 200
+2024-06-11 09:43:29 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 09:43:29 [INFO]: Response: 200
+2024-06-11 09:43:29 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:43:30 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 09:43:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:43:31 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 09:43:31 [INFO]: Response: 200
+2024-06-11 09:43:41 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 09:43:41 [INFO]: Response: 200
+2024-06-11 09:43:41 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:43:42 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 09:43:42 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 09:43:43 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 09:43:43 [INFO]: Response: 200
+2024-06-11 11:00:35 [INFO]: Démarrage de l'application
+2024-06-11 11:00:35 [INFO]: Création de l'application files
+2024-06-11 11:00:35 [INFO]: Application files créée avec succès
+2024-06-11 11:00:35 [INFO]: Création de l'application academic advisor
+2024-06-11 11:00:35 [INFO]: Application academic advisor créée avec succès
+2024-06-11 11:00:35 [INFO]: Montage des applications
+2024-06-11 11:00:35 [INFO]: Applications montées avec succès
+2024-06-11 11:00:35 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 11:01:37 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 11:01:37 [INFO]: Response: 200
+2024-06-11 11:01:37 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 11:01:37 [INFO]: Response: 200
+2024-06-11 11:01:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 11:01:40 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 11:01:42 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 11:01:42 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-11 11:01:42 [INFO]: Response: 200
+2024-06-11 11:01:42 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 11:01:42 [INFO]: Response: 200
+2024-06-11 11:01:45 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/957f4375-23c4-4150-b355-29175fd20ba3
+2024-06-11 11:01:45 [INFO]: Response: 200
+2024-06-11 11:01:51 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/899e4d87-a75a-489f-9b44-9df72e9d356a
+2024-06-11 11:01:51 [INFO]: Response: 200
+2024-06-11 11:01:53 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/647a7fbe-8206-45c8-9379-d4d04370e61b
+2024-06-11 11:01:53 [INFO]: Response: 200
+2024-06-11 11:01:56 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f47f06fd-f40d-4525-b0e8-383de257e6ed
+2024-06-11 11:01:56 [INFO]: Response: 200
+2024-06-11 11:02:00 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/305d84d7-38e0-434f-bf9f-58bdc920ce72
+2024-06-11 11:02:00 [INFO]: Response: 200
+2024-06-11 11:28:27 [INFO]: Démarrage de l'application
+2024-06-11 11:28:27 [INFO]: Création de l'application files
+2024-06-11 11:28:27 [INFO]: Application files créée avec succès
+2024-06-11 11:28:27 [INFO]: Création de l'application academic advisor
+2024-06-11 11:28:27 [INFO]: Application academic advisor créée avec succès
+2024-06-11 11:28:27 [INFO]: Montage des applications
+2024-06-11 11:28:27 [INFO]: Applications montées avec succès
+2024-06-11 11:28:27 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 11:29:35 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 11:29:35 [INFO]: Response: 200
+2024-06-11 11:29:35 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 11:29:36 [INFO]: Response: 200
+2024-06-11 11:29:36 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 11:29:38 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 11:29:41 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 11:29:41 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-11 11:29:41 [INFO]: Response: 200
+2024-06-11 11:29:41 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 11:29:41 [INFO]: Response: 200
+2024-06-11 11:29:55 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 11:29:55 [INFO]: Response: 200
+2024-06-11 11:29:56 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 11:29:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 11:29:58 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 11:29:58 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 11:29:58 [INFO]: Response: 200
+2024-06-11 11:30:12 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 11:30:12 [INFO]: Response: 200
+2024-06-11 11:30:13 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 11:30:13 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 11:30:14 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 11:30:15 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 11:30:15 [INFO]: Response: 200
+2024-06-11 11:30:56 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ff61593a-83d5-4bbd-af75-1ce347216518
+2024-06-11 11:30:56 [INFO]: Response: 200
+2024-06-11 13:55:25 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-11 13:55:25 [INFO]: Response: 200
+2024-06-11 13:55:26 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ff61593a-83d5-4bbd-af75-1ce347216518
+2024-06-11 13:55:26 [INFO]: Response: 200
+2024-06-11 13:55:29 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-11 13:55:29 [INFO]: Response: 200
+2024-06-11 13:55:30 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ff61593a-83d5-4bbd-af75-1ce347216518
+2024-06-11 13:55:30 [INFO]: Response: 200
+2024-06-11 13:55:31 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-11 13:55:31 [INFO]: Response: 200
+2024-06-11 13:55:31 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ff61593a-83d5-4bbd-af75-1ce347216518
+2024-06-11 13:55:31 [INFO]: Response: 200
+2024-06-11 13:55:33 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-11 13:55:33 [INFO]: Response: 200
+2024-06-11 13:55:34 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ff61593a-83d5-4bbd-af75-1ce347216518
+2024-06-11 13:55:35 [INFO]: Response: 200
+2024-06-11 13:56:29 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-11 13:56:29 [INFO]: Response: 200
+2024-06-11 13:56:30 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ff61593a-83d5-4bbd-af75-1ce347216518
+2024-06-11 13:56:30 [INFO]: Response: 200
+2024-06-11 15:02:34 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-11 15:02:35 [INFO]: Response: 200
+2024-06-11 15:03:03 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:03:03 [INFO]: Response: 200
+2024-06-11 15:03:03 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:03:03 [INFO]: Response: 200
+2024-06-11 15:03:04 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:03:05 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:03:07 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:03:07 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-11 15:03:07 [INFO]: Response: 200
+2024-06-11 15:03:07 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:03:07 [INFO]: Response: 200
+2024-06-11 15:04:12 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:04:13 [INFO]: Response: 200
+2024-06-11 15:04:13 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:04:13 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:04:15 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:04:16 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:04:16 [INFO]: Response: 200
+2024-06-11 15:04:51 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:04:51 [INFO]: Response: 200
+2024-06-11 15:04:51 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:05:03 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:05:03 [INFO]: Response: 200
+2024-06-11 15:05:04 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:05:05 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:05:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:05:06 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:05:06 [INFO]: Response: 200
+2024-06-11 15:05:24 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:05:24 [INFO]: Response: 200
+2024-06-11 15:05:25 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:05:25 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:05:26 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:05:27 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:05:27 [INFO]: Response: 200
+2024-06-11 15:05:46 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:05:47 [INFO]: Response: 200
+2024-06-11 15:05:47 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:05:48 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:05:48 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:05:49 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:05:49 [INFO]: Response: 200
+2024-06-11 15:06:14 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:06:14 [INFO]: Response: 200
+2024-06-11 15:06:15 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:06:16 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:06:17 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:06:18 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:06:18 [INFO]: Response: 200
+2024-06-11 15:07:40 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:07:40 [INFO]: Response: 200
+2024-06-11 15:07:40 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:07:41 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:07:43 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:07:43 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:07:43 [INFO]: Response: 200
+2024-06-11 15:09:04 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:09:04 [INFO]: Response: 200
+2024-06-11 15:09:04 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:09:05 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:09:06 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:09:07 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:09:07 [INFO]: Response: 200
+2024-06-11 15:09:21 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:09:21 [INFO]: Response: 200
+2024-06-11 15:09:21 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:09:22 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:09:23 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:09:23 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:09:23 [INFO]: Response: 200
+2024-06-11 15:10:00 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:10:00 [INFO]: Response: 200
+2024-06-11 15:10:00 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:10:01 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:10:01 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:10:02 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:10:02 [INFO]: Response: 200
+2024-06-11 15:11:13 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ff61593a-83d5-4bbd-af75-1ce347216518
+2024-06-11 15:11:13 [INFO]: Response: 200
+2024-06-11 15:11:15 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-11 15:11:15 [INFO]: Response: 200
+2024-06-11 15:11:17 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ff61593a-83d5-4bbd-af75-1ce347216518
+2024-06-11 15:11:17 [INFO]: Response: 200
+2024-06-11 15:11:19 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-11 15:11:19 [INFO]: Response: 200
+2024-06-11 15:12:43 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:12:44 [INFO]: Response: 200
+2024-06-11 15:12:44 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:12:45 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:12:47 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:12:48 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:12:48 [INFO]: Response: 200
+2024-06-11 15:13:22 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:13:22 [INFO]: Response: 200
+2024-06-11 15:13:22 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:13:22 [INFO]: Response: 200
+2024-06-11 15:13:22 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:13:23 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:13:24 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:13:24 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-11 15:13:24 [INFO]: Response: 200
+2024-06-11 15:13:24 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:13:24 [INFO]: Response: 200
+2024-06-11 15:13:40 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:13:40 [INFO]: Response: 200
+2024-06-11 15:13:41 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:13:41 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:13:42 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:13:43 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:13:43 [INFO]: Response: 200
+2024-06-11 15:14:16 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:14:16 [INFO]: Response: 200
+2024-06-11 15:14:16 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:14:17 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:14:17 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:14:18 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:14:18 [INFO]: Response: 200
+2024-06-11 15:15:00 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:15:00 [INFO]: Response: 200
+2024-06-11 15:15:00 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:15:00 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:15:01 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:15:02 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:15:02 [INFO]: Response: 200
+2024-06-11 15:16:00 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:16:00 [INFO]: Response: 200
+2024-06-11 15:16:01 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:16:01 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:16:04 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:16:04 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:16:04 [INFO]: Response: 200
+2024-06-11 15:17:24 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:17:24 [INFO]: Response: 200
+2024-06-11 15:17:25 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:17:26 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:17:27 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:17:28 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:17:28 [INFO]: Response: 200
+2024-06-11 15:17:53 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:17:53 [INFO]: Response: 200
+2024-06-11 15:17:54 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:17:54 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:17:55 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:17:55 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:17:55 [INFO]: Response: 200
+2024-06-11 15:19:32 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:19:32 [INFO]: Response: 200
+2024-06-11 15:19:32 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:19:34 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:19:35 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:19:36 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:19:36 [INFO]: Response: 200
+2024-06-11 15:19:59 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-11 15:19:59 [INFO]: Response: 200
+2024-06-11 15:20:00 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:20:00 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-11 15:20:01 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-11 15:20:02 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-11 15:20:02 [INFO]: Response: 200
+2024-06-11 15:54:15 [INFO]: Request: OPTIONS http://localhost:5001/files/create-pinecone-index
+2024-06-11 15:54:15 [INFO]: Response: 200
+2024-06-11 15:54:15 [INFO]: Request: POST http://localhost:5001/files/create-pinecone-index
+2024-06-11 15:54:15 [INFO]: Received request to create Pinecone index: cis-10100-academic-advisor---dashboard-bhpeva
+2024-06-11 15:54:19 [INFO]: Successfully created Pinecone index: cis-10100-academic-advisor---dashboard-bhpeva
+2024-06-11 15:54:19 [INFO]: Response: 200
+2024-06-11 15:54:19 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:54:19 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:54:19 [INFO]: Response: 200
+2024-06-11 15:54:19 [INFO]: Response: 200
+2024-06-11 15:54:19 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:54:19 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:54:19 [INFO]: No files found for the given course ID
+2024-06-11 15:54:19 [INFO]: Response: 200
+2024-06-11 15:54:19 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:54:19 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:54:19 [INFO]: No files found for the given course ID
+2024-06-11 15:54:19 [INFO]: Response: 200
+2024-06-11 15:55:03 [INFO]: Démarrage de l'application
+2024-06-11 15:55:03 [INFO]: Création de l'application files
+2024-06-11 15:55:03 [INFO]: Application files créée avec succès
+2024-06-11 15:55:03 [INFO]: Création de l'application academic advisor
+2024-06-11 15:55:03 [INFO]: Application academic advisor créée avec succès
+2024-06-11 15:55:03 [INFO]: Montage des applications
+2024-06-11 15:55:03 [INFO]: Applications montées avec succès
+2024-06-11 15:55:03 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 15:55:47 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:55:47 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:55:47 [INFO]: No files found for the given course ID
+2024-06-11 15:55:47 [INFO]: Response: 200
+2024-06-11 15:55:47 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:55:47 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 15:55:47 [INFO]: No files found for the given course ID
+2024-06-11 15:55:47 [INFO]: Response: 200
+2024-06-11 15:57:23 [INFO]: Démarrage de l'application
+2024-06-11 15:57:23 [INFO]: Création de l'application files
+2024-06-11 15:57:23 [INFO]: Application files créée avec succès
+2024-06-11 15:57:23 [INFO]: Création de l'application academic advisor
+2024-06-11 15:57:23 [INFO]: Application academic advisor créée avec succès
+2024-06-11 15:57:23 [INFO]: Montage des applications
+2024-06-11 15:57:23 [INFO]: Applications montées avec succès
+2024-06-11 15:57:23 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 15:59:37 [INFO]: Request: GET http://localhost:5001/static/cluster_academic_advisor.html
+2024-06-11 15:59:37 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-11 15:59:37 [INFO]: Response: 200
+2024-06-11 15:59:37 [INFO]: Request: GET http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-11 15:59:37 [INFO]: Response: 200
+2024-06-11 15:59:37 [INFO]: Fetching files for course_id: dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-11 15:59:37 [INFO]: Files fetched for course_id dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd: [{'name': 'Syllabus Intro to Economics.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd/previews/Syllabus Intro to Economics-preview-image.jpg'}]
+2024-06-11 15:59:37 [INFO]: Response: 200
+2024-06-11 16:00:01 [INFO]: Request: GET http://localhost:5001/static/cluster_academic_advisor.html
+2024-06-11 16:00:01 [INFO]: Response: 200
+2024-06-11 16:00:01 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 16:00:01 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 16:00:01 [INFO]: No files found for the given course ID
+2024-06-11 16:00:01 [INFO]: Response: 200
+2024-06-11 16:00:01 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 16:00:01 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 16:00:01 [INFO]: No files found for the given course ID
+2024-06-11 16:00:01 [INFO]: Response: 200
+2024-06-11 18:01:11 [INFO]: Request: GET http://localhost:5001/static/cluster_academic_advisor.html
+2024-06-11 18:01:11 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/undefined
+2024-06-11 18:01:11 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/undefined
+2024-06-11 18:01:11 [INFO]: Response: 200
+2024-06-11 18:01:11 [INFO]: Response: 200
+2024-06-11 18:01:11 [INFO]: Response: 304
+2024-06-11 18:01:11 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:01:11 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:01:11 [INFO]: No files found for the given course ID
+2024-06-11 18:01:11 [INFO]: Response: 200
+2024-06-11 18:01:11 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:01:11 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:01:11 [INFO]: No files found for the given course ID
+2024-06-11 18:01:11 [INFO]: Response: 200
+2024-06-11 18:08:38 [INFO]: Démarrage de l'application
+2024-06-11 18:08:38 [INFO]: Création de l'application files
+2024-06-11 18:08:38 [INFO]: Application files créée avec succès
+2024-06-11 18:08:38 [INFO]: Création de l'application academic advisor
+2024-06-11 18:08:38 [INFO]: Application academic advisor créée avec succès
+2024-06-11 18:08:38 [INFO]: Montage des applications
+2024-06-11 18:08:38 [INFO]: Applications montées avec succès
+2024-06-11 18:08:38 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 18:08:49 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:08:49 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:08:50 [INFO]: No files found for the given course ID
+2024-06-11 18:08:50 [INFO]: Response: 200
+2024-06-11 18:08:50 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 18:08:50 [INFO]: Response: 200
+2024-06-11 18:08:50 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 18:08:50 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 18:08:50 [INFO]: No files found for the given course ID
+2024-06-11 18:08:50 [INFO]: Response: 200
+2024-06-11 18:08:50 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-11 18:08:50 [INFO]: Request: GET http://localhost:5001/static/cluster_plot.html
+2024-06-11 18:08:50 [INFO]: Response: 200
+2024-06-11 18:08:50 [INFO]: Response: 404
+2024-06-11 18:08:50 [INFO]: Request: GET http://localhost:5001/files/fetching/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-11 18:08:50 [INFO]: Fetching files for course_id: dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd
+2024-06-11 18:08:50 [INFO]: Files fetched for course_id dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd: [{'name': 'Syllabus Intro to Economics.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/dd6ac380-dd6c-4bad-8cf4-313ddc5f04cd/previews/Syllabus Intro to Economics-preview-image.jpg'}]
+2024-06-11 18:08:50 [INFO]: Response: 200
+2024-06-11 18:11:40 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 18:11:40 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 18:11:41 [INFO]: No files found for the given course ID
+2024-06-11 18:11:41 [INFO]: Response: 200
+2024-06-11 18:11:41 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 18:11:41 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-11 18:11:41 [INFO]: No files found for the given course ID
+2024-06-11 18:11:41 [INFO]: Response: 200
+2024-06-11 18:15:59 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/undefined
+2024-06-11 18:15:59 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/undefined
+2024-06-11 18:15:59 [INFO]: Response: 200
+2024-06-11 18:15:59 [INFO]: Response: 200
+2024-06-11 18:15:59 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:15:59 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:16:00 [INFO]: No files found for the given course ID
+2024-06-11 18:16:00 [INFO]: Response: 200
+2024-06-11 18:16:00 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:16:00 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:16:00 [INFO]: No files found for the given course ID
+2024-06-11 18:16:00 [INFO]: Response: 200
+2024-06-11 18:25:31 [INFO]: Request: GET http://localhost:5001/static/cluster_academic_advisor.html
+2024-06-11 18:25:31 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:25:31 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:25:32 [INFO]: No files found for the given course ID
+2024-06-11 18:25:32 [INFO]: Response: 200
+2024-06-11 18:25:32 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:25:32 [INFO]: Response: 304
+2024-06-11 18:25:32 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:25:32 [INFO]: No files found for the given course ID
+2024-06-11 18:25:32 [INFO]: Response: 200
+2024-06-11 18:36:00 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/undefined
+2024-06-11 18:36:00 [INFO]: Response: 200
+2024-06-11 18:36:00 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:36:00 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:36:00 [INFO]: No files found for the given course ID
+2024-06-11 18:36:00 [INFO]: Response: 200
+2024-06-11 18:42:04 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:42:04 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:42:04 [INFO]: No files found for the given course ID
+2024-06-11 18:42:04 [INFO]: Response: 200
+2024-06-11 18:42:04 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:42:04 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:42:04 [INFO]: No files found for the given course ID
+2024-06-11 18:42:04 [INFO]: Response: 200
+2024-06-11 18:46:30 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/undefined
+2024-06-11 18:46:30 [INFO]: Response: 200
+2024-06-11 18:46:30 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:46:30 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:46:30 [INFO]: No files found for the given course ID
+2024-06-11 18:46:30 [INFO]: Response: 200
+2024-06-11 18:47:07 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:47:07 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:47:07 [INFO]: No files found for the given course ID
+2024-06-11 18:47:07 [INFO]: Response: 200
+2024-06-11 18:47:17 [INFO]: Request: GET http://localhost:5001/files/fetching/undefined
+2024-06-11 18:47:17 [INFO]: Fetching files for course_id: undefined
+2024-06-11 18:47:17 [INFO]: No files found for the given course ID
+2024-06-11 18:47:17 [INFO]: Response: 200
+2024-06-11 19:32:04 [INFO]: Request: GET http://localhost:5001/static/cluster_academic_advisor.html
+2024-06-11 19:32:04 [INFO]: Response: 304
+2024-06-11 19:51:45 [INFO]: Démarrage de l'application
+2024-06-11 19:51:45 [INFO]: Création de l'application files
+2024-06-11 19:51:45 [INFO]: Application files créée avec succès
+2024-06-11 19:51:45 [INFO]: Création de l'application academic advisor
+2024-06-11 19:51:45 [INFO]: Application academic advisor créée avec succès
+2024-06-11 19:51:45 [INFO]: Montage des applications
+2024-06-11 19:51:45 [INFO]: Applications montées avec succès
+2024-06-11 19:51:45 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 19:54:19 [INFO]: Démarrage de l'application
+2024-06-11 19:54:19 [INFO]: Création de l'application files
+2024-06-11 19:54:19 [INFO]: Application files créée avec succès
+2024-06-11 19:54:19 [INFO]: Création de l'application academic advisor
+2024-06-11 19:54:19 [INFO]: Application academic advisor créée avec succès
+2024-06-11 19:54:19 [INFO]: Montage des applications
+2024-06-11 19:54:19 [INFO]: Applications montées avec succès
+2024-06-11 19:54:19 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 19:57:19 [INFO]: Démarrage de l'application
+2024-06-11 19:57:19 [INFO]: Création de l'application files
+2024-06-11 19:57:19 [INFO]: Application files créée avec succès
+2024-06-11 19:57:19 [INFO]: Création de l'application academic advisor
+2024-06-11 19:57:19 [INFO]: Application academic advisor créée avec succès
+2024-06-11 19:57:19 [INFO]: Montage des applications
+2024-06-11 19:57:19 [INFO]: Applications montées avec succès
+2024-06-11 19:57:19 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 20:00:26 [INFO]: Request: GET http://localhost:5001/static/cluster_academic_advisor.html
+2024-06-11 20:00:26 [INFO]: Response: 404
+2024-06-11 20:02:04 [INFO]: Démarrage de l'application
+2024-06-11 20:02:04 [INFO]: Création de l'application files
+2024-06-11 20:02:04 [INFO]: Application files créée avec succès
+2024-06-11 20:02:04 [INFO]: Création de l'application academic advisor
+2024-06-11 20:02:04 [INFO]: Application academic advisor créée avec succès
+2024-06-11 20:02:04 [INFO]: Montage des applications
+2024-06-11 20:02:04 [INFO]: Applications montées avec succès
+2024-06-11 20:02:04 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 20:02:27 [INFO]: Request: GET http://localhost:5001/static/academic_advisor/cluster_academic_advisor.html
+2024-06-11 20:02:27 [INFO]: Response: 404
+2024-06-11 20:06:39 [INFO]: Démarrage de l'application
+2024-06-11 20:06:39 [INFO]: Création de l'application files
+2024-06-11 20:06:39 [INFO]: Application files créée avec succès
+2024-06-11 20:06:39 [INFO]: Création de l'application academic advisor
+2024-06-11 20:06:39 [INFO]: Application academic advisor créée avec succès
+2024-06-11 20:06:39 [INFO]: Montage des applications
+2024-06-11 20:06:39 [INFO]: Applications montées avec succès
+2024-06-11 20:06:39 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 20:07:26 [INFO]: Request: GET http://localhost:5001/static/academic_advisor/cluster_academic_advisor.html
+2024-06-11 20:07:26 [INFO]: Response: 200
+2024-06-11 20:12:08 [INFO]: Démarrage de l'application
+2024-06-11 20:12:08 [INFO]: Création de l'application files
+2024-06-11 20:12:08 [INFO]: Application files créée avec succès
+2024-06-11 20:12:08 [INFO]: Création de l'application academic advisor
+2024-06-11 20:12:08 [INFO]: Application academic advisor créée avec succès
+2024-06-11 20:12:08 [INFO]: Montage des applications
+2024-06-11 20:12:08 [INFO]: Applications montées avec succès
+2024-06-11 20:12:08 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-11 20:12:24 [INFO]: Request: GET http://localhost:5001/static/academic_advisor/cluster_academic_advisor.html
+2024-06-11 20:12:24 [INFO]: Response: 200
+2024-06-11 21:58:48 [INFO]: Request: GET http://localhost:5001/static/academic_advisor/cluster_academic_advisor.html
+2024-06-11 21:58:48 [INFO]: Response: 304
+2024-06-12 10:33:07 [INFO]: Démarrage de l'application
+2024-06-12 10:33:07 [INFO]: Création de l'application files
+2024-06-12 10:33:07 [INFO]: Application files créée avec succès
+2024-06-12 10:33:07 [INFO]: Création de l'application academic advisor
+2024-06-12 10:33:07 [INFO]: Application academic advisor créée avec succès
+2024-06-12 10:33:07 [INFO]: Montage des applications
+2024-06-12 10:33:07 [INFO]: Applications montées avec succès
+2024-06-12 10:33:07 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-12 10:38:29 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 10:38:29 [INFO]: Response: 200
+2024-06-12 10:38:29 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 10:38:29 [INFO]: Response: 200
+2024-06-12 10:38:29 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:38:36 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 10:38:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:38:39 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 10:38:39 [INFO]: Response: 200
+2024-06-12 10:38:39 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 10:38:39 [INFO]: Response: 200
+2024-06-12 10:41:31 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 10:41:31 [INFO]: Response: 200
+2024-06-12 10:41:32 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:41:33 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 10:41:35 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:41:35 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 10:41:35 [INFO]: Response: 200
+2024-06-12 10:41:52 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 10:41:52 [INFO]: Response: 200
+2024-06-12 10:41:52 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:41:53 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 10:41:54 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:41:54 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 10:41:54 [INFO]: Response: 200
+2024-06-12 10:42:13 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 10:42:13 [INFO]: Response: 200
+2024-06-12 10:42:13 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:42:14 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 10:42:15 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:42:15 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 10:42:15 [INFO]: Response: 200
+2024-06-12 10:43:06 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 10:43:06 [INFO]: Response: 200
+2024-06-12 10:43:06 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:43:08 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 10:43:08 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:43:09 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 10:43:09 [INFO]: Response: 200
+2024-06-12 10:43:42 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 10:43:42 [INFO]: Response: 200
+2024-06-12 10:43:42 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:43:43 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 10:43:44 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 10:43:44 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 10:43:44 [INFO]: Response: 200
+2024-06-12 11:18:23 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:18:23 [INFO]: Response: 200
+2024-06-12 11:18:23 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:18:24 [INFO]: Response: 200
+2024-06-12 11:18:24 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:18:25 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 11:18:27 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:18:27 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 11:18:27 [INFO]: Response: 200
+2024-06-12 11:18:27 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 11:18:27 [INFO]: Response: 200
+2024-06-12 11:22:03 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f81b6762-e731-4c25-b1a0-aec87128ee4f
+2024-06-12 11:22:04 [INFO]: Response: 200
+2024-06-12 11:22:16 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/ecb6a03c-7ec1-40f8-baab-fca3a2a32941
+2024-06-12 11:22:16 [INFO]: Response: 200
+2024-06-12 11:30:44 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:30:44 [INFO]: Response: 200
+2024-06-12 11:30:44 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:30:44 [INFO]: Response: 200
+2024-06-12 11:30:45 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:30:46 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 11:30:48 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:30:49 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 11:30:49 [INFO]: Response: 200
+2024-06-12 11:30:49 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 11:30:49 [INFO]: Response: 200
+2024-06-12 11:32:05 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:32:05 [INFO]: Response: 200
+2024-06-12 11:32:06 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:32:06 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 11:32:08 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:32:08 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 11:32:09 [INFO]: Response: 200
+2024-06-12 11:32:28 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:32:28 [INFO]: Response: 200
+2024-06-12 11:32:28 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:36:35 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:36:35 [INFO]: Response: 200
+2024-06-12 11:36:36 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:36:36 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 11:36:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:36:38 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 11:36:38 [INFO]: Response: 200
+2024-06-12 11:37:03 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 11:37:03 [INFO]: Response: 200
+2024-06-12 11:37:54 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:37:55 [INFO]: Response: 200
+2024-06-12 11:37:55 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:37:56 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 11:37:58 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:37:58 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 11:37:58 [INFO]: Response: 200
+2024-06-12 11:38:38 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:38:38 [INFO]: Response: 200
+2024-06-12 11:38:48 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:38:48 [INFO]: Response: 200
+2024-06-12 11:38:48 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:38:49 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 11:38:49 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:38:50 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 11:38:50 [INFO]: Response: 200
+2024-06-12 11:52:47 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:52:47 [INFO]: Response: 200
+2024-06-12 11:52:47 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:52:47 [INFO]: Response: 200
+2024-06-12 11:52:54 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 11:52:54 [INFO]: Response: 200
+2024-06-12 11:52:56 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:52:56 [INFO]: Response: 200
+2024-06-12 11:52:57 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 11:52:57 [INFO]: Response: 200
+2024-06-12 11:52:59 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:52:59 [INFO]: Response: 200
+2024-06-12 11:53:28 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:53:28 [INFO]: Response: 200
+2024-06-12 11:53:28 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:53:28 [INFO]: Response: 200
+2024-06-12 11:53:55 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:53:55 [INFO]: Response: 200
+2024-06-12 11:53:55 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 11:53:55 [INFO]: Response: 200
+2024-06-12 11:53:55 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:53:56 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 11:53:58 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 11:53:58 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 11:53:58 [INFO]: Response: 200
+2024-06-12 11:53:58 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 11:53:58 [INFO]: Response: 200
+2024-06-12 11:54:19 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 11:55:44 [INFO]: Response: 500
+2024-06-12 11:55:44 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:55:44 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 11:55:44 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 11:55:44 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 11:55:44 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 12:00:52 [INFO]: Response: 500
+2024-06-12 12:00:52 [INFO]: Response: 500
+2024-06-12 12:00:52 [INFO]: Response: 500
+2024-06-12 12:00:52 [INFO]: Response: 500
+2024-06-12 12:00:52 [INFO]: Response: 500
+2024-06-12 12:03:09 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 12:03:10 [INFO]: Response: 200
+2024-06-12 12:03:12 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 12:03:12 [INFO]: Response: 200
+2024-06-12 12:03:27 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 12:03:27 [INFO]: Response: 200
+2024-06-12 12:03:27 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 12:03:27 [INFO]: Response: 200
+2024-06-12 14:45:50 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 14:45:51 [INFO]: Response: 200
+2024-06-12 14:45:51 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 14:45:51 [INFO]: Response: 200
+2024-06-12 14:45:53 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 14:45:53 [INFO]: Response: 200
+2024-06-12 14:45:55 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 14:45:55 [INFO]: Response: 200
+2024-06-12 14:46:01 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 14:46:01 [INFO]: Response: 200
+2024-06-12 14:46:02 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 14:46:02 [INFO]: Response: 200
+2024-06-12 14:46:19 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 14:46:19 [INFO]: Response: 200
+2024-06-12 14:46:20 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/c3fdc748-80a4-4084-a18a-776cd53dc02b
+2024-06-12 14:46:20 [INFO]: Response: 200
+2024-06-12 14:46:25 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 14:46:25 [INFO]: Response: 200
+2024-06-12 14:46:25 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 14:46:25 [INFO]: Response: 200
+2024-06-12 14:46:25 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 14:46:26 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 14:46:28 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 14:46:28 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 14:46:28 [INFO]: Response: 200
+2024-06-12 14:46:28 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 14:46:28 [INFO]: Response: 200
+2024-06-12 14:47:00 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 14:47:00 [INFO]: Response: 200
+2024-06-12 14:47:07 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 14:47:07 [INFO]: Response: 200
+2024-06-12 14:47:18 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 14:47:18 [INFO]: Response: 200
+2024-06-12 14:49:01 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/c3fdc748-80a4-4084-a18a-776cd53dc02b
+2024-06-12 14:49:01 [INFO]: Response: 200
+2024-06-12 14:49:31 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 14:49:31 [INFO]: Response: 200
+2024-06-12 14:49:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 14:49:32 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 14:49:34 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 14:49:34 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 14:49:34 [INFO]: Response: 200
+2024-06-12 15:41:12 [INFO]: Démarrage de l'application
+2024-06-12 15:41:12 [INFO]: Création de l'application files
+2024-06-12 15:41:12 [INFO]: Application files créée avec succès
+2024-06-12 15:41:12 [INFO]: Création de l'application academic advisor
+2024-06-12 15:41:12 [INFO]: Application academic advisor créée avec succès
+2024-06-12 15:41:12 [INFO]: Montage des applications
+2024-06-12 15:41:12 [INFO]: Applications montées avec succès
+2024-06-12 15:41:12 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-12 15:41:28 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 15:41:28 [INFO]: Response: 200
+2024-06-12 15:41:28 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 15:41:29 [INFO]: Response: 200
+2024-06-12 15:41:29 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:41:31 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 15:41:33 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2024-06-12 15:41:33 [INFO]: Retrying request to /openai/v1/chat/completions in 9.000000 seconds
+2024-06-12 15:41:42 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:41:43 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 15:41:43 [INFO]: Response: 200
+2024-06-12 15:41:43 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 15:41:43 [INFO]: Response: 200
+2024-06-12 15:43:41 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 15:43:41 [INFO]: Response: 200
+2024-06-12 15:43:41 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:43:42 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 15:43:44 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:43:44 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 15:43:44 [INFO]: Response: 200
+2024-06-12 15:43:57 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 15:43:58 [INFO]: Response: 200
+2024-06-12 15:43:58 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:43:59 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 15:44:01 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:44:02 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 15:44:02 [INFO]: Response: 200
+2024-06-12 15:44:34 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 15:44:34 [INFO]: Response: 200
+2024-06-12 15:44:34 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:44:35 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 15:44:36 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:44:36 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 15:44:36 [INFO]: Response: 200
+2024-06-12 15:50:55 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 15:50:55 [INFO]: Response: 200
+2024-06-12 15:50:56 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:50:56 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 15:50:58 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:50:59 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 15:50:59 [INFO]: Response: 200
+2024-06-12 15:53:23 [INFO]: Démarrage de l'application
+2024-06-12 15:53:23 [INFO]: Création de l'application files
+2024-06-12 15:53:23 [INFO]: Application files créée avec succès
+2024-06-12 15:53:23 [INFO]: Création de l'application academic advisor
+2024-06-12 15:53:23 [INFO]: Application academic advisor créée avec succès
+2024-06-12 15:53:23 [INFO]: Montage des applications
+2024-06-12 15:53:23 [INFO]: Applications montées avec succès
+2024-06-12 15:53:23 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-12 15:53:30 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 15:53:30 [INFO]: Response: 200
+2024-06-12 15:53:30 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 15:53:31 [INFO]: Response: 200
+2024-06-12 15:53:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:53:33 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 15:53:34 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 15:53:36 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 15:53:36 [INFO]: Response: 200
+2024-06-12 15:53:36 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 15:53:36 [INFO]: Response: 200
+2024-06-12 19:07:56 [INFO]: Démarrage de l'application
+2024-06-12 19:07:56 [INFO]: Création de l'application files
+2024-06-12 19:07:56 [INFO]: Application files créée avec succès
+2024-06-12 19:07:56 [INFO]: Création de l'application academic advisor
+2024-06-12 19:07:56 [INFO]: Application academic advisor créée avec succès
+2024-06-12 19:07:56 [INFO]: Montage des applications
+2024-06-12 19:07:56 [INFO]: Applications montées avec succès
+2024-06-12 19:07:56 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-12 19:08:53 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:08:53 [INFO]: Response: 200
+2024-06-12 19:08:53 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:08:56 [INFO]: Response: 200
+2024-06-12 19:09:00 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:09:05 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:09:12 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:09:13 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 19:09:13 [INFO]: Response: 200
+2024-06-12 19:09:13 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:09:13 [INFO]: Response: 200
+2024-06-12 19:09:56 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:09:56 [INFO]: Response: 200
+2024-06-12 19:09:59 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:10:00 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:10:03 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:10:04 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:10:04 [INFO]: Response: 200
+2024-06-12 19:10:39 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:10:40 [INFO]: Response: 200
+2024-06-12 19:10:43 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:10:43 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:10:47 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:10:47 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:10:47 [INFO]: Response: 200
+2024-06-12 19:17:15 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:17:18 [INFO]: Response: 200
+2024-06-12 19:17:21 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:17:22 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:17:26 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:17:27 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:17:27 [INFO]: Response: 200
+2024-06-12 19:17:53 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:17:53 [INFO]: Response: 200
+2024-06-12 19:17:56 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:17:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:17:57 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:17:58 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:17:58 [INFO]: Response: 200
+2024-06-12 19:18:39 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:18:39 [INFO]: Response: 200
+2024-06-12 19:18:42 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:18:43 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:18:46 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:18:47 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:18:47 [INFO]: Response: 200
+2024-06-12 19:19:49 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:19:49 [INFO]: Response: 200
+2024-06-12 19:19:49 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:19:49 [INFO]: Response: 200
+2024-06-12 19:19:52 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:19:53 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:20:00 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:20:01 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 19:20:01 [INFO]: Response: 200
+2024-06-12 19:20:01 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:20:01 [INFO]: Response: 200
+2024-06-12 19:22:36 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:22:36 [INFO]: Response: 200
+2024-06-12 19:22:40 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:22:40 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:22:45 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:22:45 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:22:45 [INFO]: Response: 200
+2024-06-12 19:23:54 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:23:54 [INFO]: Response: 200
+2024-06-12 19:23:57 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:23:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:24:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:24:05 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:24:05 [INFO]: Response: 200
+2024-06-12 19:25:53 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:25:56 [INFO]: Response: 200
+2024-06-12 19:26:00 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:26:01 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:26:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:26:06 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:26:06 [INFO]: Response: 200
+2024-06-12 19:27:34 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:27:34 [INFO]: Response: 200
+2024-06-12 19:27:37 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:27:38 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:27:39 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:27:40 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:27:40 [INFO]: Response: 200
+2024-06-12 19:28:19 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:28:19 [INFO]: Response: 200
+2024-06-12 19:28:22 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:28:23 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:28:27 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:28:28 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:28:28 [INFO]: Response: 200
+2024-06-12 19:32:34 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:32:34 [INFO]: Response: 200
+2024-06-12 19:32:34 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:32:34 [INFO]: Response: 200
+2024-06-12 19:32:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:32:38 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:32:43 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:32:43 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 19:32:43 [INFO]: Response: 200
+2024-06-12 19:32:43 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:32:43 [INFO]: Response: 200
+2024-06-12 19:32:53 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:32:53 [INFO]: Response: 200
+2024-06-12 19:32:56 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:32:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:33:00 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:33:01 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:33:01 [INFO]: Response: 200
+2024-06-12 19:33:32 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 19:33:32 [INFO]: Response: 200
+2024-06-12 19:33:35 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:33:36 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 19:33:40 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 19:33:40 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 19:33:40 [INFO]: Response: 200
+2024-06-12 20:03:04 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f00c10e1-5d76-4b4d-9c72-b32cc05e1706
+2024-06-12 20:03:08 [INFO]: Response: 200
+2024-06-12 20:03:08 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/661b8236-c968-4d2c-bb30-65e75abff10d
+2024-06-12 20:03:08 [INFO]: Response: 200
+2024-06-12 20:03:09 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f00c10e1-5d76-4b4d-9c72-b32cc05e1706
+2024-06-12 20:03:09 [INFO]: Response: 200
+2024-06-12 21:05:30 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/661b8236-c968-4d2c-bb30-65e75abff10d
+2024-06-12 21:05:33 [INFO]: Response: 200
+2024-06-12 21:05:42 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f00c10e1-5d76-4b4d-9c72-b32cc05e1706
+2024-06-12 21:05:42 [INFO]: Response: 200
+2024-06-12 21:05:43 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/c3fdc748-80a4-4084-a18a-776cd53dc02b
+2024-06-12 21:05:43 [INFO]: Response: 200
+2024-06-12 21:05:45 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-12 21:05:45 [INFO]: Response: 200
+2024-06-12 21:05:45 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-12 21:05:45 [INFO]: Response: 200
+2024-06-12 21:05:47 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/661b8236-c968-4d2c-bb30-65e75abff10d
+2024-06-12 21:05:47 [INFO]: Response: 200
+2024-06-12 22:51:40 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 22:51:40 [INFO]: Response: 200
+2024-06-12 22:51:40 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 22:51:43 [INFO]: Response: 200
+2024-06-12 22:51:46 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 22:52:32 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f00c10e1-5d76-4b4d-9c72-b32cc05e1706
+2024-06-12 22:52:32 [INFO]: Response: 200
+2024-06-12 22:52:55 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/661b8236-c968-4d2c-bb30-65e75abff10d
+2024-06-12 22:52:55 [INFO]: Response: 200
+2024-06-12 22:53:01 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-12 22:53:01 [INFO]: Response: 200
+2024-06-12 22:53:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 22:53:05 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-12 22:53:07 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-12 22:53:08 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-12 22:53:08 [INFO]: Response: 200
+2024-06-12 22:53:08 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-12 22:53:08 [INFO]: Response: 200
+2024-06-13 13:50:00 [INFO]: Démarrage de l'application
+2024-06-13 13:50:00 [INFO]: Création de l'application files
+2024-06-13 13:50:00 [INFO]: Application files créée avec succès
+2024-06-13 13:50:00 [INFO]: Création de l'application academic advisor
+2024-06-13 13:50:00 [INFO]: Application academic advisor créée avec succès
+2024-06-13 13:50:00 [INFO]: Montage des applications
+2024-06-13 13:50:00 [INFO]: Applications montées avec succès
+2024-06-13 13:50:00 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-13 13:50:32 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 13:50:32 [INFO]: Response: 200
+2024-06-13 13:50:32 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 13:50:35 [INFO]: Response: 200
+2024-06-13 13:50:39 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:50:40 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 13:50:45 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:50:45 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-13 13:50:45 [INFO]: Response: 200
+2024-06-13 13:50:45 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 13:50:45 [INFO]: Response: 200
+2024-06-13 13:51:07 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 13:51:07 [INFO]: Response: 200
+2024-06-13 13:51:11 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:51:11 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 13:51:15 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:51:15 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 13:51:15 [INFO]: Response: 200
+2024-06-13 13:51:42 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 13:51:42 [INFO]: Response: 200
+2024-06-13 13:51:45 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:51:46 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 13:51:49 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:51:50 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 13:51:50 [INFO]: Response: 200
+2024-06-13 13:52:37 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 13:52:37 [INFO]: Response: 200
+2024-06-13 13:52:40 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:53:17 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 13:53:17 [INFO]: Response: 200
+2024-06-13 13:53:20 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:53:37 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 13:53:37 [INFO]: Response: 200
+2024-06-13 13:53:41 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:53:41 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 13:53:44 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 13:53:44 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 13:53:44 [INFO]: Response: 200
+2024-06-13 13:54:47 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/d36fd681-6114-4e8a-b2ed-0b30d01fffc2
+2024-06-13 13:54:47 [INFO]: Response: 200
+2024-06-13 13:55:19 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-13 13:55:19 [INFO]: Response: 200
+2024-06-13 13:57:34 [INFO]: Request: GET http://localhost:5001/static/cluster_plot.html
+2024-06-13 13:57:34 [INFO]: Response: 404
+2024-06-13 13:57:34 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-13 13:57:34 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-13 13:57:34 [INFO]: Response: 200
+2024-06-13 13:57:34 [INFO]: Response: 200
+2024-06-13 13:57:34 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-13 13:57:34 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-13 13:57:34 [INFO]: No files found for the given course ID
+2024-06-13 13:57:34 [INFO]: Response: 200
+2024-06-13 13:57:34 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-13 13:57:34 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-13 13:57:34 [INFO]: No files found for the given course ID
+2024-06-13 13:57:34 [INFO]: Response: 200
+2024-06-13 13:59:13 [INFO]: Request: GET http://localhost:5001/static/teacher/cluster_plot.html
+2024-06-13 13:59:13 [INFO]: Request: GET http://localhost:5001/files/fetching/e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-13 13:59:14 [INFO]: Fetching files for course_id: e1ca5f16-985e-4726-b64f-64a43ea47e96
+2024-06-13 13:59:14 [INFO]: No files found for the given course ID
+2024-06-13 13:59:14 [INFO]: Response: 200
+2024-06-13 13:59:14 [INFO]: Response: 200
+2024-06-13 14:02:48 [INFO]: Request: OPTIONS http://localhost:5001/files/create-pinecone-index
+2024-06-13 14:02:48 [INFO]: Response: 200
+2024-06-13 14:02:48 [INFO]: Request: POST http://localhost:5001/files/create-pinecone-index
+2024-06-13 14:02:48 [INFO]: Received request to create Pinecone index: econ0100-introduction-to-economics-ramafo
+2024-06-13 14:03:00 [INFO]: Successfully created Pinecone index: econ0100-introduction-to-economics-ramafo
+2024-06-13 14:03:00 [INFO]: Response: 200
+2024-06-13 14:03:00 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 14:03:00 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 14:03:00 [INFO]: Response: 200
+2024-06-13 14:03:00 [INFO]: Response: 200
+2024-06-13 14:03:00 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 14:03:00 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 14:03:03 [INFO]: No files found for the given course ID
+2024-06-13 14:03:03 [INFO]: Response: 200
+2024-06-13 14:03:03 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 14:03:03 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 14:03:03 [INFO]: No files found for the given course ID
+2024-06-13 14:03:03 [INFO]: Response: 200
+2024-06-13 14:28:15 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 14:28:15 [INFO]: Response: 200
+2024-06-13 14:28:15 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 14:28:18 [INFO]: Response: 200
+2024-06-13 14:28:22 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 14:28:23 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 14:28:27 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 14:28:27 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-13 14:28:27 [INFO]: Response: 200
+2024-06-13 14:28:27 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 14:28:27 [INFO]: Response: 200
+2024-06-13 14:28:46 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 14:28:46 [INFO]: Response: 200
+2024-06-13 14:28:49 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 14:28:50 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 14:28:54 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 14:28:54 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 14:28:54 [INFO]: Response: 200
+2024-06-13 15:24:16 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:24:16 [INFO]: Response: 200
+2024-06-13 15:24:16 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:24:17 [INFO]: Response: 200
+2024-06-13 15:24:21 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:24:30 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:24:30 [INFO]: Response: 200
+2024-06-13 15:24:33 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:24:37 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:24:37 [INFO]: Response: 200
+2024-06-13 15:24:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:24:44 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:24:44 [INFO]: Response: 200
+2024-06-13 15:24:47 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:24:55 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 15:24:59 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:25:00 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-13 15:25:00 [INFO]: Response: 200
+2024-06-13 15:25:00 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 15:25:00 [INFO]: Response: 200
+2024-06-13 15:25:17 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:25:17 [INFO]: Response: 200
+2024-06-13 15:25:21 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:25:21 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 15:25:22 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:25:23 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 15:25:23 [INFO]: Response: 200
+2024-06-13 15:25:44 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:25:44 [INFO]: Response: 200
+2024-06-13 15:25:48 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:25:48 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 15:25:49 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:25:49 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 15:25:49 [INFO]: Response: 200
+2024-06-13 15:26:19 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/d36fd681-6114-4e8a-b2ed-0b30d01fffc2
+2024-06-13 15:26:19 [INFO]: Response: 200
+2024-06-13 15:26:21 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/661b8236-c968-4d2c-bb30-65e75abff10d
+2024-06-13 15:26:21 [INFO]: Response: 200
+2024-06-13 15:26:25 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f00c10e1-5d76-4b4d-9c72-b32cc05e1706
+2024-06-13 15:26:25 [INFO]: Response: 200
+2024-06-13 15:26:27 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/c3fdc748-80a4-4084-a18a-776cd53dc02b
+2024-06-13 15:26:27 [INFO]: Response: 200
+2024-06-13 15:26:29 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-13 15:26:29 [INFO]: Response: 200
+2024-06-13 15:26:30 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-13 15:26:30 [INFO]: Response: 200
+2024-06-13 15:26:37 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/d36fd681-6114-4e8a-b2ed-0b30d01fffc2
+2024-06-13 15:26:37 [INFO]: Response: 200
+2024-06-13 15:26:46 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-13 15:26:46 [INFO]: Response: 200
+2024-06-13 15:27:08 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/d36fd681-6114-4e8a-b2ed-0b30d01fffc2
+2024-06-13 15:27:08 [INFO]: Response: 200
+2024-06-13 15:27:10 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-13 15:27:10 [INFO]: Response: 200
+2024-06-13 15:29:15 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:29:15 [INFO]: Response: 200
+2024-06-13 15:29:19 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:29:19 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 15:29:24 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:29:24 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 15:29:24 [INFO]: Response: 200
+2024-06-13 15:30:29 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 15:30:29 [INFO]: Response: 200
+2024-06-13 15:30:33 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:30:33 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 15:30:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 15:30:38 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 15:30:38 [INFO]: Response: 200
+2024-06-13 17:50:18 [INFO]: Démarrage de l'application
+2024-06-13 17:50:18 [INFO]: Création de l'application files
+2024-06-13 17:50:18 [INFO]: Application files créée avec succès
+2024-06-13 17:50:18 [INFO]: Création de l'application academic advisor
+2024-06-13 17:50:18 [INFO]: Application academic advisor créée avec succès
+2024-06-13 17:50:18 [INFO]: Montage des applications
+2024-06-13 17:50:18 [INFO]: Applications montées avec succès
+2024-06-13 17:50:18 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-13 17:50:42 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-13 17:50:45 [INFO]: Response: 200
+2024-06-13 17:50:45 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-13 17:50:45 [INFO]: Response: 200
+2024-06-13 17:50:53 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/d36fd681-6114-4e8a-b2ed-0b30d01fffc2
+2024-06-13 17:50:53 [INFO]: Response: 200
+2024-06-13 17:50:55 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/661b8236-c968-4d2c-bb30-65e75abff10d
+2024-06-13 17:50:55 [INFO]: Response: 200
+2024-06-13 17:51:00 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/f00c10e1-5d76-4b4d-9c72-b32cc05e1706
+2024-06-13 17:51:00 [INFO]: Response: 200
+2024-06-13 17:51:01 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/c3fdc748-80a4-4084-a18a-776cd53dc02b
+2024-06-13 17:51:01 [INFO]: Response: 200
+2024-06-13 17:51:02 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/82f622da-38b5-47fb-a774-54d110884002
+2024-06-13 17:51:02 [INFO]: Response: 200
+2024-06-13 17:51:03 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/0e729eac-bb2f-4ec4-ba79-35881273d2cf
+2024-06-13 17:51:03 [INFO]: Response: 200
+2024-06-13 17:51:07 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-13 17:51:07 [INFO]: Response: 200
+2024-06-13 22:37:41 [INFO]: Request: GET http://localhost:5001/static/teacher/cluster_plot.html
+2024-06-13 22:37:41 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:37:41 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:37:41 [INFO]: Response: 200
+2024-06-13 22:37:41 [INFO]: Response: 200
+2024-06-13 22:37:41 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:37:41 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:37:44 [INFO]: No files found for the given course ID
+2024-06-13 22:37:44 [INFO]: Response: 200
+2024-06-13 22:37:44 [INFO]: Response: 200
+2024-06-13 22:37:44 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:37:44 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:37:44 [INFO]: No files found for the given course ID
+2024-06-13 22:37:44 [INFO]: Response: 200
+2024-06-13 22:38:09 [INFO]: Request: POST http://localhost:5001/file/upload_file_from_teacher_dashboard
+2024-06-13 22:38:09 [INFO]: Response: 404
+2024-06-13 22:40:17 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:40:17 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:40:20 [INFO]: No files found for the given course ID
+2024-06-13 22:40:20 [INFO]: Response: 200
+2024-06-13 22:41:02 [INFO]: Request: POST http://localhost:5001/files/upload_file_from_teacher_dashboard
+2024-06-13 22:41:02 [INFO]: Arrivé dans le endpoint : Traitement du fichier ACCT2120_syllabus.pdf pour l'utilisateur tidJPh16w8SBiwSTDzOiLNT5yLG2 et le cours bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:41:02 [INFO]: Voici l'intérieur de l'object UploadFile(filename='ACCT2120_syllabus.pdf', size=3186, headers=Headers({'content-disposition': 'form-data; name="file"; filename="ACCT2120_syllabus.pdf"', 'content-type': 'application/pdf'}))
+2024-06-13 22:41:02 [INFO]: Found credentials in environment variables.
+2024-06-13 22:41:12 [INFO]: Parsing pdf from file object
+2024-06-13 22:41:12 [INFO]: Page 0 text length: 1863
+2024-06-13 22:41:12 [INFO]: Initialisation de l'instance PineconeApiClient en test pour le socratic...
+2024-06-13 22:41:12 [INFO]: Using index: econ0100-introduction-to-economics-ramafo
+2024-06-13 22:41:13 [INFO]: PineconeApiClient a été initialisé avec succès.
+2024-06-13 22:41:14 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 22:41:19 [INFO]: Stored 3 vectors from file ACCT2120_syllabus.pdf into namespace 
+2024-06-13 22:41:19 [INFO]: Response: 200
+2024-06-13 22:41:50 [INFO]: Request: POST http://localhost:5001/files/upload_file_from_teacher_dashboard
+2024-06-13 22:41:50 [INFO]: Arrivé dans le endpoint : Traitement du fichier ECON0460_syllabus.pdf pour l'utilisateur tidJPh16w8SBiwSTDzOiLNT5yLG2 et le cours bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-13 22:41:50 [INFO]: Voici l'intérieur de l'object UploadFile(filename='ECON0460_syllabus.pdf', size=3196, headers=Headers({'content-disposition': 'form-data; name="file"; filename="ECON0460_syllabus.pdf"', 'content-type': 'application/pdf'}))
+2024-06-13 22:41:57 [INFO]: Parsing pdf from file object
+2024-06-13 22:41:57 [INFO]: Page 0 text length: 1870
+2024-06-13 22:41:57 [INFO]: Initialisation de l'instance PineconeApiClient en test pour le socratic...
+2024-06-13 22:41:57 [INFO]: Using index: econ0100-introduction-to-economics-ramafo
+2024-06-13 22:41:57 [INFO]: PineconeApiClient a été initialisé avec succès.
+2024-06-13 22:41:57 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 22:42:03 [INFO]: Stored 3 vectors from file ECON0460_syllabus.pdf into namespace 
+2024-06-13 22:42:03 [INFO]: Response: 200
+2024-06-13 22:45:36 [INFO]: Request: GET http://localhost:5001/static/academic_advisor/cluster_academic_advisor.html
+2024-06-13 22:45:36 [INFO]: Response: 200
+2024-06-13 22:47:01 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/276e8d79-657a-47d5-9486-7b97645ef162
+2024-06-13 22:47:05 [INFO]: Response: 200
+2024-06-13 22:47:05 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/276e8d79-657a-47d5-9486-7b97645ef162
+2024-06-13 22:47:05 [INFO]: Response: 200
+2024-06-13 22:58:48 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/276e8d79-657a-47d5-9486-7b97645ef162
+2024-06-13 22:58:51 [INFO]: Response: 200
+2024-06-13 22:58:51 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/276e8d79-657a-47d5-9486-7b97645ef162
+2024-06-13 22:58:51 [INFO]: Response: 200
+2024-06-13 22:59:02 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 22:59:02 [INFO]: Response: 200
+2024-06-13 22:59:02 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 22:59:02 [INFO]: Response: 200
+2024-06-13 22:59:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 22:59:07 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 22:59:08 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 22:59:09 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-13 22:59:09 [INFO]: Response: 200
+2024-06-13 22:59:09 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 22:59:09 [INFO]: Response: 200
+2024-06-13 23:10:42 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 23:10:42 [INFO]: Response: 200
+2024-06-13 23:10:42 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 23:10:43 [INFO]: Response: 200
+2024-06-13 23:10:46 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 23:10:47 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 23:10:51 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 23:10:52 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-13 23:10:52 [INFO]: Response: 200
+2024-06-13 23:10:52 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 23:10:52 [INFO]: Response: 200
+2024-06-13 23:11:22 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 23:11:22 [INFO]: Response: 200
+2024-06-13 23:11:26 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 23:11:26 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 23:11:30 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 23:11:30 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 23:11:30 [INFO]: Response: 200
+2024-06-13 23:11:45 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-13 23:11:45 [INFO]: Response: 200
+2024-06-13 23:11:48 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 23:11:49 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-13 23:11:52 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-13 23:11:54 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-13 23:11:54 [INFO]: Response: 200
+2024-06-14 07:09:54 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 07:09:54 [INFO]: Response: 200
+2024-06-14 07:09:54 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 07:09:58 [INFO]: Response: 200
+2024-06-14 07:10:01 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 07:10:02 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 07:10:06 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 07:10:07 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-14 07:10:07 [INFO]: Response: 200
+2024-06-14 07:10:07 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 07:10:07 [INFO]: Response: 200
+2024-06-14 07:10:32 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 07:10:32 [INFO]: Response: 200
+2024-06-14 07:10:35 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 07:10:36 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 07:10:36 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 07:10:36 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 07:10:36 [INFO]: Response: 200
+2024-06-14 07:10:47 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 07:10:47 [INFO]: Response: 200
+2024-06-14 07:10:51 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 07:10:51 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 07:10:52 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 07:10:52 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 07:10:52 [INFO]: Response: 200
+2024-06-14 11:17:37 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:17:37 [INFO]: Response: 200
+2024-06-14 11:17:37 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:17:37 [INFO]: Response: 200
+2024-06-14 11:17:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:17:38 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 11:17:40 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:17:41 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-14 11:17:41 [INFO]: Response: 200
+2024-06-14 11:17:41 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 11:17:41 [INFO]: Response: 200
+2024-06-14 11:18:03 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:18:03 [INFO]: Response: 200
+2024-06-14 11:18:03 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:18:04 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 11:18:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:18:06 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 11:18:06 [INFO]: Response: 200
+2024-06-14 11:18:31 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:18:31 [INFO]: Response: 200
+2024-06-14 11:18:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:18:37 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:18:37 [INFO]: Response: 200
+2024-06-14 11:18:38 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:18:41 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:18:41 [INFO]: Response: 200
+2024-06-14 11:18:41 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:18:44 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:18:44 [INFO]: Response: 200
+2024-06-14 11:18:44 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:18:55 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:18:55 [INFO]: Response: 200
+2024-06-14 11:18:55 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:18:56 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 11:18:57 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:18:57 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 11:18:57 [INFO]: Response: 200
+2024-06-14 11:19:19 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/410d89be-5cd3-40d0-8dbc-d27789dd4efa
+2024-06-14 11:19:19 [INFO]: Response: 200
+2024-06-14 11:19:22 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/dfa7832e-defb-4ecc-bdce-0d6ad9b6f4a7
+2024-06-14 11:19:22 [INFO]: Response: 200
+2024-06-14 11:19:23 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/276e8d79-657a-47d5-9486-7b97645ef162
+2024-06-14 11:19:23 [INFO]: Response: 200
+2024-06-14 11:19:25 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/4d5034aa-3025-414d-8d2d-2d58e6f627d6
+2024-06-14 11:19:25 [INFO]: Response: 200
+2024-06-14 11:20:07 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:20:07 [INFO]: Response: 200
+2024-06-14 11:20:07 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:20:08 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 11:20:09 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:20:10 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 11:20:10 [INFO]: Response: 200
+2024-06-14 11:20:29 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:20:29 [INFO]: Response: 200
+2024-06-14 11:20:30 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:20:30 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 11:20:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:20:31 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 11:20:31 [INFO]: Response: 200
+2024-06-14 11:21:22 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 11:21:22 [INFO]: Response: 200
+2024-06-14 11:21:23 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:21:23 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 11:21:24 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 11:21:24 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 11:21:24 [INFO]: Response: 200
+2024-06-14 11:23:40 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-14 11:23:40 [INFO]: Response: 200
+2024-06-14 11:23:40 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/cdbecd8f-0bd0-4ce2-9183-0ea0ccd6c693
+2024-06-14 11:23:40 [INFO]: Response: 200
+2024-06-14 17:26:13 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/3964cba5-2d92-40c8-9f14-9f309f1082ae
+2024-06-14 17:26:13 [INFO]: Response: 200
+2024-06-14 17:26:50 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:26:50 [INFO]: Response: 200
+2024-06-14 17:26:50 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:26:50 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:26:50 [INFO]: Files fetched for course_id bcb24cec-76f9-4ed1-9727-f9e41778852e: [{'name': 'ACCT2120_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ACCT2120_syllabus-preview-image.jpg'}, {'name': 'ECON0460_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ECON0460_syllabus-preview-image.jpg'}]
+2024-06-14 17:26:50 [INFO]: Response: 200
+2024-06-14 17:33:47 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/3964cba5-2d92-40c8-9f14-9f309f1082ae
+2024-06-14 17:33:47 [INFO]: Response: 200
+2024-06-14 17:34:11 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/3964cba5-2d92-40c8-9f14-9f309f1082ae
+2024-06-14 17:34:11 [INFO]: Response: 200
+2024-06-14 17:34:49 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/3964cba5-2d92-40c8-9f14-9f309f1082ae
+2024-06-14 17:34:49 [INFO]: Response: 200
+2024-06-14 17:54:34 [INFO]: Request: GET http://localhost:5001/static/academic_advisor/cluster_academic_advisor.html
+2024-06-14 17:54:34 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/3964cba5-2d92-40c8-9f14-9f309f1082ae
+2024-06-14 17:54:34 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:54:34 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:54:34 [INFO]: Response: 200
+2024-06-14 17:54:34 [INFO]: Response: 200
+2024-06-14 17:54:34 [INFO]: Response: 200
+2024-06-14 17:54:34 [INFO]: Response: 304
+2024-06-14 17:54:34 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/3964cba5-2d92-40c8-9f14-9f309f1082ae
+2024-06-14 17:54:34 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:54:34 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:54:34 [INFO]: Files fetched for course_id bcb24cec-76f9-4ed1-9727-f9e41778852e: [{'name': 'ACCT2120_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ACCT2120_syllabus-preview-image.jpg'}, {'name': 'ECON0460_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ECON0460_syllabus-preview-image.jpg'}]
+2024-06-14 17:54:34 [INFO]: Response: 200
+2024-06-14 17:54:34 [INFO]: Response: 200
+2024-06-14 17:54:34 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:54:34 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 17:54:34 [INFO]: Files fetched for course_id bcb24cec-76f9-4ed1-9727-f9e41778852e: [{'name': 'ACCT2120_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ACCT2120_syllabus-preview-image.jpg'}, {'name': 'ECON0460_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ECON0460_syllabus-preview-image.jpg'}]
+2024-06-14 17:54:34 [INFO]: Response: 200
+2024-06-14 18:14:28 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 18:14:28 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/3964cba5-2d92-40c8-9f14-9f309f1082ae
+2024-06-14 18:14:28 [INFO]: Request: OPTIONS http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 18:14:28 [INFO]: Response: 200
+2024-06-14 18:14:28 [INFO]: Response: 200
+2024-06-14 18:14:28 [INFO]: Response: 200
+2024-06-14 18:14:28 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 18:14:28 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 18:14:28 [INFO]: Files fetched for course_id bcb24cec-76f9-4ed1-9727-f9e41778852e: [{'name': 'ACCT2120_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ACCT2120_syllabus-preview-image.jpg'}, {'name': 'ECON0460_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ECON0460_syllabus-preview-image.jpg'}]
+2024-06-14 18:14:28 [INFO]: Request: GET http://localhost:5001/chat/get_chat_history/3964cba5-2d92-40c8-9f14-9f309f1082ae
+2024-06-14 18:14:28 [INFO]: Response: 200
+2024-06-14 18:14:28 [INFO]: Response: 200
+2024-06-14 18:14:28 [INFO]: Request: GET http://localhost:5001/files/fetching/bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 18:14:28 [INFO]: Fetching files for course_id: bcb24cec-76f9-4ed1-9727-f9e41778852e
+2024-06-14 18:14:28 [INFO]: Files fetched for course_id bcb24cec-76f9-4ed1-9727-f9e41778852e: [{'name': 'ACCT2120_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ACCT2120_syllabus-preview-image.jpg'}, {'name': 'ECON0460_syllabus.pdf', 'preview_url': 'https://upenn-bucket.s3.ap-southeast-2.amazonaws.com/courses/bcb24cec-76f9-4ed1-9727-f9e41778852e/previews/ECON0460_syllabus-preview-image.jpg'}]
+2024-06-14 18:14:28 [INFO]: Response: 200
+2024-06-14 18:39:52 [INFO]: Démarrage de l'application
+2024-06-14 18:39:52 [INFO]: Création de l'application files
+2024-06-14 18:39:52 [INFO]: Application files créée avec succès
+2024-06-14 18:39:52 [INFO]: Création de l'application academic advisor
+2024-06-14 18:39:52 [INFO]: Application academic advisor créée avec succès
+2024-06-14 18:39:52 [INFO]: Montage des applications
+2024-06-14 18:39:52 [INFO]: Applications montées avec succès
+2024-06-14 18:39:52 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-14 18:40:27 [INFO]: Démarrage de l'application
+2024-06-14 18:40:27 [INFO]: Création de l'application files
+2024-06-14 18:40:27 [INFO]: Application files créée avec succès
+2024-06-14 18:40:27 [INFO]: Création de l'application academic advisor
+2024-06-14 18:40:27 [INFO]: Application academic advisor créée avec succès
+2024-06-14 18:40:27 [INFO]: Montage des applications
+2024-06-14 18:40:27 [INFO]: Applications montées avec succès
+2024-06-14 18:40:27 [INFO]: Démarrage du serveur sur le port 5001
+2024-06-14 18:41:04 [INFO]: Request: OPTIONS http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 18:41:04 [INFO]: Response: 200
+2024-06-14 18:41:04 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 18:41:04 [INFO]: Response: 200
+2024-06-14 18:41:05 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 18:41:07 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 18:41:09 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 18:41:09 [INFO]: Request: OPTIONS http://localhost:5001/chat/save_ai_message
+2024-06-14 18:41:09 [INFO]: Response: 200
+2024-06-14 18:41:09 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 18:41:09 [INFO]: Response: 200
+2024-06-14 18:41:30 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 18:41:30 [INFO]: Response: 200
+2024-06-14 18:41:31 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 18:41:31 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 18:41:32 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 18:41:33 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 18:41:33 [INFO]: Response: 200
+2024-06-14 18:41:44 [INFO]: Request: POST http://localhost:5001/chat/send_message_socratic_langgraph
+2024-06-14 18:41:44 [INFO]: Response: 200
+2024-06-14 18:41:45 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 18:41:45 [INFO]: HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2024-06-14 18:41:46 [INFO]: HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2024-06-14 18:41:46 [INFO]: Request: POST http://localhost:5001/chat/save_ai_message
+2024-06-14 18:41:46 [INFO]: Response: 200

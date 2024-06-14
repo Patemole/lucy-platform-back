@@ -1,0 +1,57 @@
+pinecone-client==3.2.2
+pinecone==4.0.0
+openai==1.33.0
+langchain==0.2.3
+langchain-core==0.2.5
+langchain-openai==0.1.8
+langchain-pinecone==0.1.1
+langchain-text-splitters==0.2.1
+langsmith==0.1.75
+langchain_groq==0.1.5
+langgraph==0.0.65
+python-dotenv==1.0.1
+
+pdf2image==1.16.3
+uvicorn==0.23.1
+tokenizers==0.13.3
+pyparsing==3.1.1
+PyMuPDF==1.24.2
+PyMuPDFb==1.24.1
+PyPDF2
+pydantic==1.10.11
+openapi-schema-pydantic==1.2.4
+numpy==1.25.1
+markdown-it-py==3.0.0
+httpcore==1.0.5
+httplib2==0.22.0
+httptools==0.6.0
+httpx==0.27.0
+GitPython==3.1.32
+google-api-core==2.12.0
+google-api-python-client==2.105.0
+google-auth==2.23.3
+google-auth-httplib2==0.1.1
+google-cloud-core==2.3.3
+google-cloud-firestore==2.13.0
+google-cloud-storage==2.12.0
+google-crc32c==1.5.0
+google-resumable-media==2.6.0
+googleapis-common-protos==1.61.0
+firebase-admin==6.2.0
+fastapi==0.99.1
+decorator==5.1.1
+aiohttp==3.8.4
+anyio==3.7.1
+async-timeout==4.0.2
+packaging==23.2
+
+gunicorn==20.1.0
+boto3==1.28.0
+python-multipart==0.0.5
+
+#Bcp de choses à rajouter après avoir 
+
+#Installing collected packages: pytz, Pyqtree, multipledispatch, zipp, tzdata, toolz, tifffile, threadpoolctl, scipy, param, networkx, MarkupSafe, locket, llvmlite, lazy-loader, kiwisolver, joblib, imageio, fsspec, fonttools, cycler, contourpy, colorspacious, colorcet, cloudpickle, scikit-learn, scikit-image, pyct, partd, pandas, numba, matplotlib, jinja2, importlib-metadata, xarray, pylabeladjust, dask, datashader, datamapplot
+#Successfully installed MarkupSafe-2.1.5 Pyqtree-1.0.0 cloudpickle-3.0.0 colorcet-3.1.0 colorspacious-1.1.2 contourpy-1.2.1 cycler-0.12.1 dask-2024.5.2 datamapplot-0.3.0 datashader-0.16.2 fonttools-4.53.0 fsspec-2024.6.0 imageio-2.34.1 importlib-metadata-7.1.0 jinja2-3.1.4 joblib-1.4.2 kiwisolver-1.4.5 lazy-loader-0.4 llvmlite-0.42.0 locket-1.0.0 matplotlib-3.9.0 multipledispatch-1.0.0 networkx-3.3 numba-0.59.1 pandas-2.2.2 param-2.1.0 partd-1.4.2 pyct-0.5.0 pylabeladjust-0.1.13 pytz-2024.1 scikit-image-0.23.2 scikit-learn-1.5.0 scipy-1.13.1 threadpoolctl-3.5.0 tifffile-2024.5.22 toolz-0.12.1 tzdata-2024.1 xarray-2024.5.0 zipp-3.19.2
+#Successfully installed pynndescent-0.5.12 umap-learn-0.5.6
+#Successfully installed pyarrow-16.1.0
