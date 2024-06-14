@@ -1,3 +1,4 @@
+#To be depreciated
 import logging
 from openai import OpenAI
 from langchain_openai import OpenAIEmbeddings
